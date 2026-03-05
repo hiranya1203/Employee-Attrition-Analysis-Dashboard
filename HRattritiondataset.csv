@@ -1,0 +1,1001 @@
+EmployeeId,Age,Gender,Department,JobRole,EducationLevel,MaritalStatus,MonthlyIncome,SalaryHikePercent,Bonus,YearsAtComapany,YearsInCurrentRole,TotalWorkingYears,overtime,WorkLifeBalance,JobSatisfaction,PerformanceRating,Attrition
+1001,22,Female,FInance,Senior Executive,Master,Divorced,57784,10,31379,3,85,29,No,3,3,1,No
+1002,48,Female,IT,Assistant,PHD,Single,120306,23,5044,17,73,15,Yes,2,3,1,No
+1003,27,Male,FInance,Assistant,MBA,Single,93753,11,46673,19,33,3,No,1,3,1,No
+1004,49,Male,Sales,Lead Analyst,PHD,Single,23852,19,30526,1,79,32,No,2,2,1,No
+1005,46,Male,Sales,Team Leader,Diploma,Divorced,123190,5,38331,16,54,2,No,4,2,4,No
+1006,25,Male,IT,Executive,Graduate,Married,66124,19,10858,14,150,32,Yes,4,2,2,No
+1007,55,Male,Marketing,Manager,Diploma,Single,60936,18,36614,2,73,23,No,1,4,1,Yes
+1008,47,Female,IT,Assistant,Diploma,Married,120647,17,8811,20,105,23,Yes,4,1,3,Yes
+1009,34,Male,Sales,Executive,Diploma,Married,72870,24,37305,3,107,31,Yes,4,4,4,Yes
+1010,29,Female,FInance,Manager,MBA,Married,64386,15,3778,19,4,1,Yes,1,4,5,No
+1011,54,Female,Marketing,Manager,Graduate,Divorced,126852,5,3641,17,47,23,No,2,2,4,Yes
+1012,53,Male,FInance,Executive,Master,Single,122524,13,27332,7,87,30,Yes,4,4,4,No
+1013,45,Female,Marketing,Lead Analyst,Master,Married,92903,12,30313,6,16,36,No,2,4,1,No
+1014,54,Female,Operations,Team Leader,Diploma,Divorced,137065,22,21387,7,51,0,Yes,3,3,5,No
+1015,35,Female,FInance,Assistant,Master,Single,25423,18,12607,3,89,15,No,2,3,1,Yes
+1016,47,Male,Operations,Team Leader,Graduate,Married,32272,24,48528,12,124,40,Yes,4,1,5,No
+1017,45,Female,Operations,Senior Executive,MBA,Married,57785,7,23804,2,142,38,No,1,1,3,Yes
+1018,40,Female,FInance,Lead Analyst,PHD,Married,79525,14,43827,16,145,5,No,4,2,3,Yes
+1019,54,Male,Sales,Executive,Master,Married,52755,13,9142,14,37,34,Yes,3,2,2,No
+1020,21,Male,FInance,Senior Executive,Diploma,Single,24310,9,44947,3,92,36,Yes,3,1,3,No
+1021,46,Male,Operations,Senior Executive,PHD,Married,80197,23,8379,11,44,2,No,4,3,3,No
+1022,34,Male,Operations,Executive,MBA,Divorced,47771,15,126,12,22,18,No,4,3,1,Yes
+1023,30,Male,FInance,Executive,Diploma,Married,130657,22,42406,10,54,18,Yes,2,2,3,Yes
+1024,48,Female,HR,Lead Analyst,Diploma,Single,18576,20,16413,5,5,18,No,2,4,5,No
+1025,52,Female,Operations,Team Leader,Graduate,Single,96226,14,34010,13,16,33,No,4,1,2,Yes
+1026,22,Female,FInance,Executive,Master,Divorced,70836,12,36566,12,16,30,Yes,2,3,3,No
+1027,33,Female,IT,Manager,PHD,Divorced,65567,6,33514,20,46,9,Yes,1,4,3,No
+1028,39,Female,Marketing,Lead Analyst,Master,Married,70426,7,9991,18,18,39,Yes,1,4,5,No
+1029,26,Male,HR,Assistant,MBA,Married,128963,19,5188,12,69,0,No,1,4,5,No
+1030,44,Female,IT,Executive,Graduate,Married,68417,22,32588,4,70,16,No,4,4,4,No
+1031,40,Male,Operations,Assistant,PHD,Married,31337,23,36693,20,133,39,No,3,3,3,Yes
+1032,46,Male,IT,Manager,Diploma,Divorced,135451,14,32611,6,134,10,No,2,2,4,No
+1033,25,Male,Sales,Assistant,Graduate,Single,55222,5,36098,16,47,36,No,4,4,3,Yes
+1034,54,Female,FInance,Team Leader,Diploma,Single,119440,14,29778,4,37,28,Yes,4,1,1,Yes
+1035,41,Female,HR,Team Leader,Graduate,Divorced,63292,10,16594,20,13,5,Yes,2,1,1,No
+1036,29,Female,Sales,Executive,MBA,Divorced,113705,15,33892,7,104,14,No,3,2,2,Yes
+1037,47,Female,Operations,Team Leader,Diploma,Single,39923,11,34633,13,122,36,No,3,4,5,Yes
+1038,47,Male,HR,Team Leader,Diploma,Divorced,133464,5,30698,11,146,16,Yes,1,2,2,Yes
+1039,24,Female,HR,Lead Analyst,Diploma,Single,53171,6,2909,13,72,7,Yes,2,4,4,No
+1040,24,Female,FInance,Assistant,Diploma,Divorced,35028,15,44433,2,80,4,No,3,1,2,Yes
+1041,53,Female,HR,Team Leader,MBA,Divorced,143169,21,35565,3,56,2,Yes,3,1,2,Yes
+1042,55,Male,FInance,Assistant,Diploma,Single,46249,25,8665,9,144,13,No,4,3,4,Yes
+1043,49,Male,FInance,Team Leader,Diploma,Divorced,149754,20,30749,3,70,25,No,3,4,2,Yes
+1044,29,Female,FInance,Executive,Graduate,Divorced,114386,12,35174,9,100,13,No,2,4,1,Yes
+1045,30,Male,IT,Assistant,MBA,Married,84585,8,21228,15,82,31,Yes,2,1,5,No
+1046,28,Female,HR,Senior Executive,Diploma,Single,122521,19,29732,1,108,22,No,3,2,4,No
+1047,43,Male,IT,Team Leader,Master,Single,115027,17,30205,11,128,16,No,1,4,1,No
+1048,41,Male,Marketing,Executive,Master,Single,125819,18,26384,13,92,9,No,4,2,2,No
+1049,22,Female,Sales,Executive,MBA,Married,142500,17,8047,12,115,35,Yes,2,3,1,No
+1050,34,Male,Marketing,Executive,Graduate,Married,86297,25,39724,15,28,35,No,2,1,4,No
+1051,31,Female,Operations,Team Leader,Graduate,Divorced,66686,6,26317,7,23,26,Yes,4,2,5,Yes
+1052,31,Male,Sales,Senior Executive,PHD,Divorced,70139,15,18805,2,49,26,Yes,2,3,1,Yes
+1053,49,Female,Sales,Executive,Master,Married,111982,17,49527,5,16,21,No,4,4,2,Yes
+1054,49,Female,HR,Executive,Diploma,Single,43014,19,33008,19,24,20,No,4,3,1,Yes
+1055,53,Female,HR,Senior Executive,MBA,Single,131385,16,41813,15,88,39,No,1,4,4,Yes
+1056,23,Female,Marketing,Senior Executive,MBA,Divorced,145495,16,7147,13,68,35,No,2,2,4,No
+1057,52,Male,FInance,Lead Analyst,MBA,Married,98975,22,44458,8,92,0,Yes,1,4,2,Yes
+1058,53,Female,Marketing,Lead Analyst,PHD,Single,53525,13,40310,13,79,25,No,4,4,1,Yes
+1059,26,Female,FInance,Executive,Master,Divorced,49570,6,34591,20,144,4,Yes,4,2,2,No
+1060,54,Female,Marketing,Manager,Diploma,Divorced,130219,12,1627,12,134,36,No,3,3,2,No
+1061,27,Male,FInance,Team Leader,Master,Single,94964,6,2865,3,93,32,Yes,3,2,5,Yes
+1062,27,Male,FInance,Senior Executive,Graduate,Single,72263,8,18960,2,67,32,Yes,2,3,2,No
+1063,36,Female,IT,Executive,PHD,Married,41371,12,38868,11,40,1,No,1,3,1,Yes
+1064,39,Male,HR,Executive,PHD,Divorced,30182,23,21053,12,144,39,No,4,2,3,No
+1065,53,Male,Marketing,Lead Analyst,PHD,Single,126262,20,36133,3,103,39,No,4,1,2,Yes
+1066,22,Female,FInance,Assistant,PHD,Divorced,96924,19,5645,5,111,25,Yes,3,1,5,Yes
+1067,53,Male,HR,Lead Analyst,Graduate,Married,72032,11,32824,1,42,34,No,2,3,1,Yes
+1068,38,Female,Operations,Team Leader,Master,Divorced,67701,8,45757,14,114,34,Yes,1,2,3,Yes
+1069,35,Male,Marketing,Team Leader,MBA,Married,114840,7,47875,1,1,13,Yes,1,2,1,Yes
+1070,41,Female,IT,Manager,Diploma,Married,71965,18,35703,12,66,32,Yes,2,1,2,No
+1071,52,Female,Marketing,Team Leader,Diploma,Married,141799,10,33230,10,34,24,No,2,1,2,No
+1072,24,Female,IT,Executive,MBA,Married,142954,11,31987,7,108,40,No,4,4,5,Yes
+1073,25,Female,FInance,Executive,Graduate,Divorced,32818,11,34262,19,59,21,No,4,4,4,Yes
+1074,31,Male,HR,Lead Analyst,Graduate,Married,108496,21,17548,13,76,3,No,2,1,1,No
+1075,34,Male,HR,Manager,MBA,Married,89574,17,38599,17,21,18,No,3,2,1,Yes
+1076,51,Female,Sales,Lead Analyst,PHD,Divorced,109417,15,22493,20,131,2,No,4,3,4,Yes
+1077,48,Male,Sales,Assistant,Graduate,Divorced,53119,13,4956,17,125,7,Yes,4,3,1,Yes
+1078,23,Female,FInance,Executive,PHD,Single,80732,8,44458,14,52,39,Yes,3,2,1,Yes
+1079,46,Male,Sales,Executive,PHD,Married,21770,25,21035,2,104,24,Yes,3,3,5,Yes
+1080,42,Female,Marketing,Executive,Diploma,Single,80041,6,19445,14,110,28,No,1,1,4,Yes
+1081,40,Female,HR,Executive,Diploma,Married,68969,25,4574,11,99,21,Yes,1,4,1,Yes
+1082,26,Female,Sales,Senior Executive,PHD,Married,52103,16,11302,5,36,6,No,3,3,4,No
+1083,40,Male,HR,Team Leader,Graduate,Single,39686,23,18715,9,146,14,Yes,3,1,3,Yes
+1084,37,Male,Marketing,Team Leader,Graduate,Divorced,23232,15,18093,16,55,12,No,4,4,4,Yes
+1085,22,Male,HR,Manager,Graduate,Divorced,33525,5,26980,14,58,2,Yes,2,2,2,Yes
+1086,23,Female,Marketing,Manager,Diploma,Married,88985,21,16013,14,42,22,No,4,4,3,Yes
+1087,47,Female,FInance,Senior Executive,Master,Divorced,47805,10,1508,18,84,10,No,2,4,5,No
+1088,46,Male,Operations,Team Leader,Graduate,Married,61306,11,46847,12,14,39,Yes,3,1,3,Yes
+1089,28,Male,FInance,Senior Executive,MBA,Married,47874,10,3804,15,90,3,Yes,4,4,5,Yes
+1090,29,Female,FInance,Lead Analyst,PHD,Married,99479,13,21850,3,50,5,No,1,4,3,No
+1091,40,Female,Operations,Team Leader,Graduate,Divorced,114232,17,43573,18,142,32,No,3,3,2,Yes
+1092,32,Female,Marketing,Senior Executive,Master,Single,108969,15,4540,14,89,3,Yes,2,1,3,No
+1093,48,Female,Marketing,Executive,Graduate,Divorced,67518,8,39388,9,16,27,Yes,1,3,1,Yes
+1094,40,Male,IT,Assistant,Diploma,Single,141956,7,34412,7,44,40,No,1,1,3,No
+1095,27,Female,Operations,Lead Analyst,Graduate,Single,62143,7,31371,19,129,20,Yes,4,1,4,Yes
+1096,48,Female,Operations,Senior Executive,Graduate,Divorced,149096,7,32302,11,90,9,No,2,4,5,Yes
+1097,31,Female,Sales,Executive,Graduate,Divorced,147556,20,14388,15,138,16,No,3,1,4,Yes
+1098,48,Male,FInance,Manager,Diploma,Divorced,133658,7,4951,17,15,40,Yes,3,1,2,Yes
+1099,52,Female,FInance,Assistant,MBA,Married,21759,6,14906,17,24,17,No,4,3,2,Yes
+1100,52,Male,IT,Team Leader,PHD,Single,97226,5,15518,10,30,16,Yes,1,4,1,No
+1101,23,Female,IT,Team Leader,PHD,Divorced,111145,13,48260,15,69,24,Yes,3,4,5,No
+1102,32,Male,Sales,Lead Analyst,PHD,Married,139438,13,757,16,123,13,No,3,4,5,Yes
+1103,50,Female,Sales,Lead Analyst,Master,Single,22537,10,39771,11,116,3,No,3,4,3,No
+1104,45,Male,IT,Executive,Master,Divorced,130888,23,37247,18,19,31,No,3,1,3,No
+1105,43,Female,IT,Manager,PHD,Single,66435,18,38005,3,39,10,No,1,2,3,Yes
+1106,54,Female,Operations,Lead Analyst,PHD,Married,52470,18,26443,3,61,21,Yes,4,4,1,No
+1107,29,Female,Operations,Lead Analyst,Diploma,Single,36570,11,1746,2,142,3,Yes,3,3,1,Yes
+1108,38,Male,HR,Executive,Graduate,Single,65390,17,28855,1,144,8,Yes,4,4,3,No
+1109,49,Male,Sales,Manager,Master,Single,44080,8,43129,11,26,23,Yes,2,1,3,No
+1110,42,Male,HR,Executive,PHD,Married,28850,25,2894,3,89,36,Yes,1,2,2,Yes
+1111,32,Female,IT,Senior Executive,Graduate,Married,113589,25,32431,11,31,7,Yes,2,4,1,Yes
+1112,39,Female,Sales,Executive,PHD,Single,115522,9,35870,14,47,5,No,1,3,1,No
+1113,44,Male,Marketing,Senior Executive,Graduate,Single,29071,5,11290,18,30,38,Yes,2,2,5,Yes
+1114,48,Female,Marketing,Manager,Diploma,Single,65483,21,8808,8,33,15,Yes,1,4,5,No
+1115,32,Male,IT,Executive,PHD,Divorced,47929,18,4354,1,72,11,No,1,1,2,Yes
+1116,22,Male,FInance,Manager,PHD,Single,60080,15,8286,17,109,14,Yes,4,3,1,No
+1117,37,Female,FInance,Lead Analyst,PHD,Divorced,95559,22,10267,18,1,33,Yes,3,1,3,Yes
+1118,27,Female,HR,Assistant,Master,Married,125927,16,41971,11,28,23,Yes,2,1,2,Yes
+1119,39,Male,Marketing,Assistant,Diploma,Divorced,116354,23,19225,13,64,30,No,4,3,4,No
+1120,27,Male,HR,Assistant,PHD,Married,39587,20,31539,6,5,29,No,3,3,2,Yes
+1121,23,Female,Sales,Senior Executive,Graduate,Single,148927,17,38272,18,24,21,No,2,2,4,Yes
+1122,54,Female,IT,Team Leader,Diploma,Single,103417,6,17639,9,10,30,No,1,4,4,Yes
+1123,46,Female,Marketing,Lead Analyst,PHD,Married,34950,21,17877,5,41,32,Yes,1,1,4,No
+1124,50,Female,Marketing,Senior Executive,Graduate,Single,120317,23,20426,9,87,20,No,4,4,3,Yes
+1125,47,Female,HR,Manager,PHD,Divorced,88535,16,18877,2,132,23,Yes,4,4,5,Yes
+1126,34,Female,Sales,Executive,Diploma,Single,78384,16,47181,15,107,9,Yes,4,4,5,No
+1127,37,Male,FInance,Manager,Master,Married,65808,25,10046,8,127,3,No,1,3,5,No
+1128,26,Male,Marketing,Senior Executive,MBA,Married,16081,8,41853,4,126,36,No,1,2,2,No
+1129,26,Male,Operations,Manager,Graduate,Married,138143,16,44937,15,132,25,Yes,2,1,2,Yes
+1130,53,Male,IT,Senior Executive,Master,Single,52176,20,25428,14,92,35,No,1,3,5,Yes
+1131,26,Male,HR,Senior Executive,Master,Divorced,60863,6,13640,11,104,30,Yes,2,1,1,Yes
+1132,47,Male,FInance,Senior Executive,PHD,Single,21286,12,20646,8,95,8,Yes,2,2,5,Yes
+1133,53,Male,Operations,Executive,Diploma,Single,96050,13,13085,8,133,37,Yes,1,4,4,Yes
+1134,43,Male,IT,Senior Executive,PHD,Divorced,74646,11,24934,20,10,17,No,1,4,2,No
+1135,40,Male,Sales,Lead Analyst,Graduate,Divorced,52016,10,37934,10,114,27,No,3,2,5,No
+1136,31,Female,FInance,Lead Analyst,PHD,Single,24097,7,1401,5,58,8,No,3,2,1,No
+1137,48,Male,IT,Executive,Master,Married,26249,25,43026,19,119,40,No,2,1,1,Yes
+1138,23,Male,HR,Senior Executive,Diploma,Single,126760,11,19860,5,150,10,Yes,2,1,2,No
+1139,54,Male,Marketing,Team Leader,Diploma,Married,59320,16,37712,8,150,36,No,3,4,1,Yes
+1140,41,Female,IT,Team Leader,MBA,Married,84247,6,6019,13,132,30,No,1,2,3,Yes
+1141,49,Male,Sales,Assistant,MBA,Divorced,31487,5,18401,15,13,19,No,4,4,1,Yes
+1142,37,Male,IT,Assistant,Diploma,Single,82656,23,19489,14,23,18,Yes,3,3,3,No
+1143,32,Male,Operations,Senior Executive,Master,Married,108881,17,27730,19,150,32,No,3,4,5,No
+1144,22,Male,FInance,Assistant,Master,Divorced,101234,23,15592,20,17,10,Yes,1,1,3,No
+1145,51,Female,Sales,Senior Executive,Graduate,Single,94449,8,21142,19,90,11,Yes,3,2,3,No
+1146,42,Male,Operations,Assistant,Graduate,Single,17498,15,21273,18,119,3,No,3,1,4,No
+1147,32,Female,Marketing,Assistant,Graduate,Married,97027,22,43452,11,32,26,No,1,4,1,Yes
+1148,35,Male,HR,Lead Analyst,MBA,Single,149373,22,38065,15,120,28,Yes,3,3,1,Yes
+1149,35,Male,Sales,Assistant,Graduate,Divorced,112580,10,9201,17,43,19,No,2,2,1,No
+1150,24,Male,Operations,Executive,PHD,Single,122425,23,36537,16,43,3,Yes,4,2,5,No
+1151,38,Male,Marketing,Team Leader,Master,Married,15340,21,11759,12,94,15,Yes,4,2,5,Yes
+1152,50,Female,IT,Executive,Graduate,Divorced,148063,14,25762,19,87,23,No,4,2,2,Yes
+1153,44,Female,Operations,Executive,Master,Divorced,125231,7,48610,17,8,22,No,3,3,3,No
+1154,39,Female,Operations,Manager,MBA,Married,132025,19,26996,4,75,37,Yes,3,1,2,No
+1155,23,Male,IT,Team Leader,MBA,Single,145442,14,824,5,84,18,No,2,1,3,Yes
+1156,34,Male,FInance,Team Leader,Diploma,Single,15861,8,29318,20,139,19,Yes,3,3,3,No
+1157,54,Female,Marketing,Team Leader,Master,Married,43564,15,28208,11,28,15,Yes,2,4,3,No
+1158,48,Male,Operations,Manager,Master,Single,129921,22,33847,5,15,29,Yes,2,3,5,Yes
+1159,31,Female,Marketing,Manager,Diploma,Divorced,109261,7,27835,4,74,3,Yes,3,1,2,No
+1160,21,Female,IT,Assistant,MBA,Married,40245,14,34625,4,134,16,Yes,1,4,1,No
+1161,36,Male,HR,Manager,Graduate,Single,66975,9,26177,9,21,35,Yes,1,1,4,No
+1162,51,Female,HR,Team Leader,Diploma,Married,125680,23,23600,16,12,1,No,1,4,3,No
+1163,39,Male,IT,Team Leader,MBA,Divorced,50464,11,15667,1,131,40,Yes,2,3,5,Yes
+1164,31,Male,Operations,Lead Analyst,Diploma,Divorced,46544,7,46866,16,92,23,Yes,1,2,1,Yes
+1165,41,Female,HR,Lead Analyst,PHD,Single,21529,9,46105,3,25,24,Yes,2,1,5,Yes
+1166,44,Female,Operations,Senior Executive,Master,Single,113841,21,3616,3,6,17,Yes,3,2,3,No
+1167,51,Female,Sales,Team Leader,Master,Married,143852,22,27270,7,78,13,No,2,2,1,Yes
+1168,29,Male,Operations,Manager,PHD,Divorced,111707,13,23080,14,46,38,Yes,3,2,1,No
+1169,39,Male,Marketing,Senior Executive,Graduate,Divorced,65530,19,27641,1,16,2,Yes,2,2,4,No
+1170,38,Male,FInance,Senior Executive,Master,Married,83038,14,29902,5,5,5,No,2,2,3,Yes
+1171,55,Male,Operations,Manager,MBA,Divorced,133982,6,9357,8,113,22,No,1,4,1,No
+1172,44,Male,Marketing,Lead Analyst,Master,Single,132193,19,1276,16,65,6,No,4,3,2,No
+1173,22,Female,Sales,Senior Executive,Master,Married,34297,8,9793,7,27,2,Yes,2,2,1,No
+1174,32,Female,Operations,Lead Analyst,MBA,Single,116953,14,31076,8,119,10,Yes,2,4,1,Yes
+1175,21,Female,Operations,Senior Executive,MBA,Married,26674,8,4132,7,110,10,Yes,2,4,1,No
+1176,45,Female,HR,Lead Analyst,Diploma,Married,118811,25,8465,4,80,37,Yes,3,4,1,No
+1177,24,Male,FInance,Lead Analyst,Graduate,Divorced,92205,8,23696,2,149,7,Yes,3,3,4,Yes
+1178,21,Male,Operations,Assistant,Graduate,Divorced,80099,11,25007,18,70,9,No,1,1,2,Yes
+1179,53,Male,Sales,Lead Analyst,PHD,Single,88634,25,2838,19,48,7,Yes,3,4,4,No
+1180,35,Female,Operations,Team Leader,MBA,Married,85305,18,28283,12,67,37,Yes,3,3,5,Yes
+1181,37,Male,Operations,Lead Analyst,Graduate,Married,26841,5,997,5,48,14,Yes,3,1,2,Yes
+1182,34,Male,Marketing,Executive,Master,Divorced,73871,15,11764,8,20,25,No,3,1,4,Yes
+1183,52,Male,Operations,Lead Analyst,PHD,Single,27648,20,15133,2,150,1,No,3,3,2,Yes
+1184,30,Female,FInance,Manager,Diploma,Single,143071,22,41294,10,72,37,Yes,2,3,2,No
+1185,52,Male,FInance,Team Leader,Master,Married,99356,5,45507,19,68,13,Yes,4,2,3,Yes
+1186,53,Male,Sales,Senior Executive,Graduate,Single,133049,21,23034,9,42,27,Yes,2,4,4,Yes
+1187,42,Male,HR,Team Leader,Master,Divorced,112018,10,20338,2,35,37,No,1,3,5,Yes
+1188,42,Male,Marketing,Senior Executive,Graduate,Married,129031,12,25912,2,88,1,No,3,3,5,No
+1189,37,Male,Marketing,Manager,PHD,Divorced,30051,9,35324,7,130,24,No,1,2,3,Yes
+1190,37,Male,Sales,Assistant,Diploma,Divorced,140645,24,17240,13,23,7,Yes,4,4,4,No
+1191,35,Female,Marketing,Senior Executive,MBA,Single,117812,19,20863,11,141,35,No,1,4,5,Yes
+1192,31,Male,Sales,Lead Analyst,Master,Divorced,16825,15,8711,6,0,20,No,3,1,5,Yes
+1193,45,Female,HR,Lead Analyst,Graduate,Married,58371,24,12087,17,17,1,No,3,3,1,No
+1194,36,Female,Operations,Team Leader,PHD,Single,90772,9,33143,19,97,11,No,4,4,2,Yes
+1195,38,Female,IT,Lead Analyst,Master,Married,146804,25,34816,15,40,35,Yes,4,1,2,No
+1196,40,Female,IT,Lead Analyst,Diploma,Divorced,39625,24,43841,6,43,11,Yes,1,2,1,No
+1197,50,Male,Sales,Lead Analyst,Graduate,Married,105751,6,12819,2,3,27,No,2,4,3,No
+1198,52,Female,Marketing,Manager,Diploma,Single,50188,15,10046,5,112,9,Yes,4,3,2,No
+1199,30,Female,Operations,Senior Executive,Diploma,Married,134675,21,40032,19,96,34,Yes,1,1,2,Yes
+1200,34,Female,HR,Team Leader,Graduate,Married,92726,15,32955,7,146,14,Yes,3,1,5,No
+1201,23,Female,Marketing,Executive,PHD,Married,82787,10,45128,13,17,37,Yes,1,3,3,Yes
+1202,48,Male,Marketing,Assistant,PHD,Married,130213,21,346,18,110,17,No,2,1,3,Yes
+1203,46,Female,Marketing,Senior Executive,Graduate,Married,82487,16,2728,3,88,37,No,2,3,5,No
+1204,52,Male,Marketing,Lead Analyst,Master,Married,138690,19,44599,1,143,16,Yes,4,3,4,No
+1205,31,Male,Operations,Team Leader,PHD,Divorced,65027,16,15547,18,85,8,Yes,2,4,1,No
+1206,51,Female,Operations,Assistant,Master,Divorced,96042,25,6047,1,49,33,Yes,4,2,1,No
+1207,52,Female,Marketing,Lead Analyst,Graduate,Divorced,82513,13,11781,13,32,29,No,1,2,1,No
+1208,26,Male,Marketing,Lead Analyst,MBA,Married,87122,7,15071,14,132,0,No,2,3,4,Yes
+1209,38,Female,Marketing,Team Leader,Diploma,Single,104182,5,30455,17,23,20,No,1,3,3,No
+1210,22,Male,IT,Executive,Master,Divorced,78096,16,27863,15,77,28,Yes,4,3,2,Yes
+1211,52,Male,Sales,Manager,Master,Married,56169,19,33552,12,27,30,Yes,3,2,5,Yes
+1212,36,Male,Sales,Assistant,Graduate,Married,25103,21,7833,4,40,32,No,3,3,2,Yes
+1213,55,Female,Sales,Assistant,PHD,Single,46620,15,36969,2,79,24,Yes,4,4,4,Yes
+1214,28,Male,HR,Manager,PHD,Married,145173,19,17950,16,56,28,Yes,1,3,1,Yes
+1215,53,Female,IT,Assistant,Diploma,Married,133647,19,40460,11,138,36,Yes,2,3,2,Yes
+1216,50,Male,FInance,Lead Analyst,PHD,Single,23515,6,43959,7,72,17,No,3,3,3,Yes
+1217,24,Female,FInance,Executive,Master,Single,57638,11,10298,6,138,17,Yes,1,2,2,Yes
+1218,23,Female,FInance,Team Leader,MBA,Divorced,109548,12,48678,9,106,33,No,1,2,2,Yes
+1219,37,Male,Sales,Manager,Diploma,Single,45914,5,11112,5,5,20,Yes,1,1,5,Yes
+1220,46,Male,Marketing,Assistant,Diploma,Divorced,140172,20,8395,3,129,30,Yes,4,2,4,No
+1221,39,Female,Marketing,Team Leader,MBA,Divorced,48989,17,36749,9,4,18,Yes,2,2,2,No
+1222,39,Male,Marketing,Executive,Graduate,Married,54283,21,9666,4,87,12,Yes,4,3,3,No
+1223,29,Male,Sales,Lead Analyst,Master,Single,35303,5,36299,15,92,40,No,1,2,1,Yes
+1224,23,Female,Sales,Executive,Graduate,Divorced,118320,18,15323,8,145,38,Yes,3,3,5,No
+1225,24,Female,Sales,Lead Analyst,Master,Single,123058,15,37570,4,10,36,Yes,3,2,3,No
+1226,31,Male,FInance,Assistant,Diploma,Married,73432,6,27121,17,36,36,No,3,2,1,No
+1227,33,Male,FInance,Lead Analyst,Graduate,Divorced,142649,13,44550,13,114,17,No,3,1,2,No
+1228,38,Male,FInance,Senior Executive,Graduate,Married,85994,6,36413,19,103,15,Yes,3,4,2,Yes
+1229,34,Female,Sales,Senior Executive,MBA,Divorced,134690,19,46713,6,25,20,Yes,2,1,3,Yes
+1230,54,Male,FInance,Senior Executive,Diploma,Married,48845,18,48064,14,38,30,No,3,2,3,Yes
+1231,50,Male,HR,Team Leader,Diploma,Single,37212,9,31144,19,146,27,Yes,4,1,1,Yes
+1232,26,Male,Operations,Assistant,Graduate,Divorced,139723,6,42568,8,130,33,Yes,3,4,1,Yes
+1233,32,Male,Operations,Team Leader,Diploma,Divorced,117975,15,40616,5,112,33,No,1,4,3,No
+1234,33,Female,Operations,Lead Analyst,MBA,Divorced,19233,24,28931,14,98,38,No,3,3,2,No
+1235,51,Male,Operations,Executive,Diploma,Single,141135,17,33051,14,150,13,No,4,4,2,No
+1236,53,Female,Sales,Executive,Master,Single,51860,12,34465,11,53,20,No,4,2,5,Yes
+1237,42,Female,Sales,Executive,Master,Married,67220,8,43121,14,28,40,No,3,1,3,Yes
+1238,44,Male,IT,Lead Analyst,Master,Married,120936,16,32954,13,97,19,Yes,4,2,2,Yes
+1239,27,Male,HR,Executive,Master,Divorced,105494,12,12989,7,33,1,No,1,4,3,No
+1240,27,Female,FInance,Team Leader,Graduate,Single,73421,20,16887,7,9,0,No,1,3,1,Yes
+1241,31,Male,Marketing,Senior Executive,Graduate,Married,114137,16,14683,14,55,22,Yes,1,4,5,Yes
+1242,32,Female,HR,Executive,Master,Married,119448,22,507,19,132,21,No,4,2,1,Yes
+1243,31,Male,FInance,Manager,Diploma,Single,90063,12,37126,17,65,15,Yes,2,3,3,No
+1244,42,Male,Operations,Executive,Graduate,Married,90858,5,13309,8,148,16,Yes,3,3,3,No
+1245,52,Female,Operations,Executive,Master,Divorced,54034,23,29086,2,17,14,Yes,4,1,2,Yes
+1246,27,Female,Marketing,Lead Analyst,Graduate,Married,145524,5,22371,8,59,11,No,3,3,4,Yes
+1247,51,Female,FInance,Assistant,Diploma,Single,58031,6,31591,5,116,2,No,2,4,2,Yes
+1248,47,Female,Sales,Executive,Graduate,Married,55369,8,42248,16,30,0,No,1,4,5,No
+1249,55,Female,Sales,Executive,Graduate,Divorced,49145,22,42775,20,44,37,No,2,1,3,Yes
+1250,42,Male,Sales,Lead Analyst,PHD,Divorced,16874,16,25619,7,17,35,Yes,1,1,4,Yes
+1251,36,Female,IT,Senior Executive,Diploma,Single,75836,24,48124,9,85,10,No,2,1,5,Yes
+1252,37,Male,Operations,Manager,Master,Married,37248,11,23763,8,109,31,No,1,4,2,Yes
+1253,46,Female,FInance,Assistant,Diploma,Single,56063,10,14889,14,55,18,Yes,1,3,4,Yes
+1254,35,Female,Marketing,Assistant,MBA,Divorced,26209,5,1832,5,22,39,Yes,3,4,4,Yes
+1255,44,Male,Sales,Team Leader,Graduate,Single,93014,17,38247,17,129,10,No,2,3,1,No
+1256,45,Female,Marketing,Assistant,Master,Married,38169,6,6512,14,79,32,Yes,3,3,4,Yes
+1257,30,Male,Operations,Lead Analyst,Graduate,Divorced,121270,16,7181,7,17,18,No,1,4,3,Yes
+1258,55,Male,Operations,Executive,Master,Married,134845,9,44101,6,39,4,No,4,3,1,Yes
+1259,21,Male,HR,Assistant,PHD,Divorced,101329,16,33398,19,90,7,Yes,1,3,2,Yes
+1260,21,Male,Marketing,Lead Analyst,Master,Single,120690,11,44984,4,11,30,Yes,2,1,4,Yes
+1261,31,Male,Marketing,Lead Analyst,Graduate,Divorced,105201,12,49731,5,148,18,No,4,1,3,No
+1262,46,Female,Operations,Senior Executive,Master,Married,65822,19,48662,14,115,17,No,3,3,1,No
+1263,41,Male,IT,Lead Analyst,PHD,Single,46112,25,41775,6,94,32,Yes,2,4,1,No
+1264,30,Female,Sales,Executive,PHD,Married,78837,20,43453,1,33,23,Yes,4,1,5,No
+1265,53,Female,Operations,Senior Executive,Graduate,Married,147302,16,3957,7,102,0,No,2,2,5,Yes
+1266,33,Female,Sales,Team Leader,PHD,Divorced,88236,13,11439,1,40,17,Yes,4,1,2,No
+1267,28,Female,IT,Executive,Graduate,Divorced,98807,13,21852,4,36,0,Yes,2,1,4,Yes
+1268,49,Male,IT,Assistant,Graduate,Divorced,45028,14,44086,20,19,29,Yes,2,2,3,Yes
+1269,47,Female,Sales,Senior Executive,Master,Divorced,121532,24,45669,2,38,36,No,2,1,3,No
+1270,39,Female,Operations,Manager,Diploma,Divorced,27749,5,34515,10,104,29,Yes,1,2,3,Yes
+1271,51,Male,HR,Executive,Graduate,Married,95070,20,18548,13,52,18,No,1,1,4,Yes
+1272,50,Male,Sales,Executive,Diploma,Single,72208,14,47035,12,67,22,Yes,4,4,1,Yes
+1273,33,Male,Marketing,Manager,Master,Single,138190,12,39019,13,74,40,Yes,3,3,4,Yes
+1274,37,Male,Operations,Assistant,Graduate,Single,143871,18,28273,11,1,17,Yes,1,4,4,Yes
+1275,21,Female,Sales,Lead Analyst,PHD,Divorced,21292,17,49325,20,6,16,No,4,2,3,No
+1276,28,Male,Operations,Manager,Graduate,Married,103087,21,33508,2,135,30,Yes,3,2,5,No
+1277,25,Male,FInance,Assistant,Graduate,Single,127396,17,26550,16,75,26,Yes,1,4,1,Yes
+1278,41,Female,Sales,Lead Analyst,Diploma,Divorced,115491,16,28337,15,135,7,No,4,4,5,Yes
+1279,40,Female,HR,Executive,Master,Divorced,65854,13,30733,9,2,10,No,2,3,4,No
+1280,29,Female,Operations,Team Leader,MBA,Married,114891,16,10203,11,2,4,No,3,1,3,No
+1281,26,Female,FInance,Lead Analyst,MBA,Married,114199,5,3272,17,145,29,No,3,3,3,Yes
+1282,55,Male,FInance,Senior Executive,Graduate,Divorced,52443,5,40025,2,127,22,No,1,4,4,No
+1283,43,Female,Sales,Assistant,PHD,Divorced,100160,21,2214,3,64,30,Yes,2,1,3,Yes
+1284,21,Male,IT,Executive,Graduate,Married,129200,6,23524,16,3,9,No,1,1,4,No
+1285,33,Female,FInance,Manager,Diploma,Divorced,32310,16,40899,7,80,23,Yes,4,3,4,No
+1286,36,Female,Marketing,Team Leader,PHD,Married,104055,6,43926,7,73,38,Yes,2,3,3,Yes
+1287,24,Female,FInance,Team Leader,Graduate,Married,99344,13,41842,16,105,14,Yes,4,1,3,Yes
+1288,48,Female,Sales,Senior Executive,Master,Married,22278,17,30204,11,119,12,No,1,1,3,Yes
+1289,28,Female,HR,Manager,Master,Single,137679,14,1691,6,110,2,No,4,2,2,No
+1290,26,Female,Marketing,Lead Analyst,PHD,Married,46435,16,30623,12,80,1,Yes,3,3,5,No
+1291,46,Female,IT,Team Leader,Diploma,Single,144977,5,24171,2,88,39,Yes,1,2,3,No
+1292,29,Female,Sales,Team Leader,Master,Divorced,32820,24,40831,16,100,0,Yes,1,1,2,No
+1293,45,Male,Operations,Senior Executive,Master,Married,36210,18,26688,1,21,22,Yes,1,4,1,Yes
+1294,52,Female,Operations,Lead Analyst,Graduate,Married,93589,17,46940,15,46,1,No,2,3,1,No
+1295,35,Male,HR,Senior Executive,Diploma,Divorced,37031,19,46836,19,116,4,Yes,3,3,3,No
+1296,24,Female,Marketing,Manager,Graduate,Divorced,21458,13,42669,8,111,37,Yes,1,4,1,No
+1297,29,Female,HR,Team Leader,PHD,Married,80047,12,7171,10,11,16,Yes,3,4,3,No
+1298,41,Male,Sales,Senior Executive,MBA,Married,132183,11,12957,3,20,26,Yes,3,4,4,Yes
+1299,44,Female,HR,Manager,Master,Single,130632,21,28399,20,142,34,Yes,4,2,5,No
+1300,51,Male,Operations,Lead Analyst,Graduate,Single,34603,16,40330,13,60,15,Yes,2,1,5,Yes
+1301,52,Female,Sales,Manager,Diploma,Single,20810,12,24208,11,135,5,No,2,2,2,Yes
+1302,28,Female,Marketing,Executive,PHD,Single,92006,21,24879,14,75,39,No,4,4,3,No
+1303,22,Male,FInance,Team Leader,Master,Divorced,34890,11,44046,17,128,9,No,3,1,3,Yes
+1304,44,Male,Operations,Lead Analyst,Master,Married,120419,13,38652,17,49,5,Yes,2,2,1,Yes
+1305,28,Female,Marketing,Lead Analyst,Graduate,Divorced,73416,7,40934,5,142,20,No,2,2,3,No
+1306,51,Male,Sales,Manager,MBA,Married,40305,14,38136,11,21,4,Yes,4,3,4,No
+1307,39,Female,HR,Lead Analyst,PHD,Divorced,16037,18,47116,3,87,22,Yes,1,1,3,Yes
+1308,45,Female,IT,Senior Executive,Graduate,Single,42025,11,34212,15,1,26,No,3,2,1,Yes
+1309,27,Female,HR,Executive,PHD,Single,58331,24,23072,7,131,14,No,4,2,5,Yes
+1310,53,Female,HR,Manager,Master,Married,91424,21,8037,15,117,12,No,3,1,4,No
+1311,32,Male,HR,Manager,Graduate,Single,105795,19,8314,14,19,32,No,3,1,1,Yes
+1312,44,Male,Marketing,Assistant,Master,Single,43174,17,1996,8,133,23,Yes,2,3,5,Yes
+1313,28,Male,Operations,Senior Executive,Graduate,Single,143257,21,5717,16,86,16,Yes,1,4,3,Yes
+1314,38,Female,Operations,Senior Executive,PHD,Divorced,121980,13,18145,20,65,28,No,1,3,5,No
+1315,44,Male,HR,Assistant,Graduate,Married,36999,5,3397,16,118,34,No,1,1,3,No
+1316,48,Male,HR,Lead Analyst,Master,Married,27652,5,5101,6,44,37,No,1,2,1,No
+1317,54,Female,IT,Senior Executive,Graduate,Married,37963,5,18788,18,113,22,Yes,3,4,4,Yes
+1318,46,Female,Marketing,Assistant,Master,Married,33125,9,6947,4,133,40,Yes,1,3,2,Yes
+1319,48,Female,HR,Executive,PHD,Single,68501,22,22189,16,97,19,No,2,4,3,Yes
+1320,38,Female,HR,Lead Analyst,PHD,Single,96858,25,761,17,88,10,Yes,3,4,2,Yes
+1321,25,Male,FInance,Team Leader,Master,Single,121659,23,8919,7,73,38,No,3,4,5,Yes
+1322,36,Male,HR,Senior Executive,Diploma,Divorced,68618,9,46372,8,132,4,No,1,1,2,Yes
+1323,41,Female,IT,Lead Analyst,MBA,Single,41027,15,48353,19,116,4,Yes,1,1,5,Yes
+1324,26,Male,FInance,Lead Analyst,Master,Married,117845,11,14590,9,123,34,Yes,3,2,4,No
+1325,43,Female,Sales,Lead Analyst,Master,Married,123856,19,42105,15,43,17,Yes,4,1,5,Yes
+1326,32,Female,IT,Team Leader,PHD,Divorced,93371,24,37621,4,100,9,No,2,1,1,Yes
+1327,53,Male,FInance,Assistant,Graduate,Married,64757,5,24891,7,149,24,No,3,2,5,No
+1328,55,Male,HR,Lead Analyst,Master,Married,29617,20,17462,14,21,12,No,4,3,3,No
+1329,32,Male,Sales,Senior Executive,Diploma,Divorced,45375,24,39697,14,97,15,No,3,1,5,Yes
+1330,53,Female,Marketing,Executive,Master,Single,98464,21,14270,17,34,20,No,4,3,4,Yes
+1331,39,Male,Operations,Executive,Diploma,Married,58589,24,39033,7,82,38,No,2,3,2,Yes
+1332,32,Female,IT,Manager,Diploma,Married,123043,25,590,17,95,2,Yes,1,2,3,Yes
+1333,50,Female,IT,Executive,PHD,Married,116663,24,25761,20,141,4,No,1,3,5,Yes
+1334,42,Male,Operations,Assistant,Graduate,Divorced,64890,16,11058,4,87,0,No,1,4,1,No
+1335,24,Female,FInance,Assistant,Master,Divorced,115026,25,9575,19,31,20,No,1,1,1,Yes
+1336,53,Female,Sales,Lead Analyst,Master,Single,147248,19,17583,3,29,22,Yes,4,4,2,No
+1337,51,Male,IT,Lead Analyst,Graduate,Divorced,19332,25,49302,16,91,5,Yes,4,3,2,No
+1338,54,Male,Marketing,Team Leader,Diploma,Single,136113,22,41783,4,115,1,Yes,3,3,4,Yes
+1339,37,Female,Sales,Senior Executive,MBA,Divorced,88255,14,1895,3,92,30,No,4,1,4,No
+1340,33,Female,FInance,Assistant,Diploma,Married,94079,18,7430,7,82,35,No,4,1,2,Yes
+1341,51,Male,Marketing,Team Leader,Diploma,Divorced,74184,11,35205,2,27,36,Yes,4,2,4,No
+1342,55,Male,Marketing,Assistant,MBA,Single,15120,7,38518,20,85,29,Yes,4,4,2,No
+1343,34,Male,Marketing,Lead Analyst,Diploma,Married,142701,6,20257,17,9,1,Yes,3,4,4,Yes
+1344,45,Male,HR,Assistant,Graduate,Married,115909,19,37606,2,46,5,Yes,4,1,1,Yes
+1345,40,Male,FInance,Team Leader,PHD,Single,79945,19,10375,17,76,39,Yes,4,4,4,No
+1346,42,Male,IT,Manager,PHD,Divorced,110345,12,47848,2,25,34,Yes,1,2,4,No
+1347,22,Female,FInance,Senior Executive,PHD,Married,147165,10,28583,17,82,33,Yes,2,4,2,Yes
+1348,26,Female,Marketing,Executive,PHD,Single,130195,12,20335,4,85,18,Yes,3,3,1,No
+1349,44,Female,Operations,Lead Analyst,Master,Divorced,61439,5,35004,13,52,22,Yes,4,3,5,Yes
+1350,33,Male,Marketing,Team Leader,Master,Divorced,16632,6,6332,8,59,5,Yes,3,1,2,Yes
+1351,21,Female,Sales,Assistant,Diploma,Divorced,23449,18,1854,12,24,18,No,4,1,5,Yes
+1352,21,Male,FInance,Manager,PHD,Single,121122,8,26054,7,37,0,No,4,3,5,Yes
+1353,38,Male,HR,Manager,MBA,Single,63244,23,1620,16,46,36,No,2,1,3,No
+1354,54,Female,Operations,Assistant,MBA,Single,75273,8,14551,5,99,9,Yes,1,4,1,Yes
+1355,25,Female,Sales,Assistant,Master,Married,118357,8,33941,9,128,18,Yes,1,4,4,Yes
+1356,22,Male,Marketing,Team Leader,Diploma,Married,30268,10,46025,20,11,4,Yes,4,1,3,No
+1357,26,Male,Marketing,Assistant,Master,Married,142312,5,23442,17,70,34,Yes,1,2,3,Yes
+1358,32,Male,Sales,Executive,Master,Divorced,38959,21,4283,2,117,29,No,2,1,4,Yes
+1359,47,Male,FInance,Manager,PHD,Divorced,40567,23,15534,7,129,18,Yes,3,2,2,Yes
+1360,28,Female,Marketing,Executive,Diploma,Single,32628,13,6756,6,32,29,No,1,2,2,Yes
+1361,42,Female,FInance,Manager,Graduate,Divorced,15378,19,3493,14,96,1,No,1,3,1,Yes
+1362,21,Male,Marketing,Senior Executive,MBA,Married,77002,9,23893,4,116,14,Yes,2,4,2,No
+1363,47,Female,HR,Senior Executive,PHD,Married,35667,14,25009,13,119,10,Yes,3,2,5,Yes
+1364,35,Female,Operations,Team Leader,Diploma,Single,108333,11,32645,8,95,38,No,4,4,4,Yes
+1365,26,Female,FInance,Senior Executive,Master,Single,88168,9,47794,16,6,25,No,1,2,2,No
+1366,42,Female,IT,Assistant,PHD,Married,74817,25,46664,18,27,14,No,4,3,2,Yes
+1367,28,Male,FInance,Manager,Graduate,Single,105788,8,47924,6,28,7,Yes,1,2,4,No
+1368,45,Female,Operations,Manager,PHD,Single,75710,18,11069,20,116,20,No,2,1,5,Yes
+1369,52,Male,HR,Team Leader,MBA,Married,101697,20,632,16,77,14,No,1,2,3,Yes
+1370,30,Male,FInance,Lead Analyst,MBA,Married,123603,18,11893,5,102,27,Yes,4,1,3,No
+1371,55,Male,Operations,Manager,MBA,Single,40160,8,39066,10,129,4,No,3,4,5,No
+1372,41,Female,IT,Team Leader,Diploma,Divorced,62303,6,17114,5,79,4,Yes,3,2,2,No
+1373,51,Female,HR,Lead Analyst,Graduate,Single,118573,24,10650,17,90,22,No,4,2,5,Yes
+1374,24,Female,Sales,Team Leader,Diploma,Married,146024,19,8974,11,67,2,Yes,4,2,5,No
+1375,30,Female,HR,Senior Executive,Diploma,Divorced,121924,11,36963,10,19,40,Yes,4,1,5,Yes
+1376,52,Female,Marketing,Manager,Master,Single,145166,22,46497,18,46,39,Yes,4,1,3,No
+1377,50,Male,FInance,Manager,Graduate,Single,78360,23,25827,3,24,25,Yes,1,4,1,No
+1378,54,Female,FInance,Manager,PHD,Divorced,42314,5,16206,4,24,30,Yes,1,3,1,No
+1379,31,Female,Sales,Senior Executive,PHD,Single,57018,10,44733,19,0,5,Yes,1,2,3,Yes
+1380,52,Female,Marketing,Executive,MBA,Married,65331,13,33522,17,113,19,Yes,3,4,3,No
+1381,29,Male,FInance,Lead Analyst,Master,Divorced,130909,21,1803,4,26,13,Yes,2,1,1,No
+1382,46,Female,Operations,Lead Analyst,MBA,Single,137799,9,31184,1,43,37,No,3,1,1,No
+1383,21,Male,IT,Executive,PHD,Married,93729,19,48098,4,133,2,Yes,1,2,2,No
+1384,36,Male,HR,Lead Analyst,PHD,Single,111436,20,49691,19,127,9,Yes,2,4,4,Yes
+1385,22,Female,HR,Team Leader,Master,Married,125047,11,38685,2,149,21,No,2,2,1,No
+1386,41,Female,FInance,Executive,Diploma,Divorced,114244,16,33080,10,59,25,Yes,2,4,2,Yes
+1387,39,Male,Operations,Executive,MBA,Single,40413,7,30695,8,31,14,Yes,4,2,5,No
+1388,43,Female,Operations,Executive,Diploma,Divorced,94486,25,33578,8,109,5,No,2,2,4,No
+1389,45,Female,Operations,Manager,PHD,Married,115895,11,40955,10,41,1,No,1,1,1,Yes
+1390,52,Female,IT,Assistant,PHD,Married,111761,21,33561,11,39,37,No,1,1,3,No
+1391,27,Male,Operations,Senior Executive,MBA,Divorced,18628,15,12620,11,8,19,No,4,2,1,Yes
+1392,41,Female,Marketing,Senior Executive,Graduate,Single,95483,11,45609,15,12,2,No,3,1,4,No
+1393,54,Female,Operations,Executive,MBA,Single,98330,7,11083,16,1,20,Yes,3,1,1,No
+1394,43,Male,Sales,Executive,Master,Married,65857,22,9913,6,145,19,Yes,2,2,5,No
+1395,21,Male,Operations,Executive,Diploma,Married,127523,21,38469,14,40,17,Yes,4,1,1,No
+1396,41,Male,Sales,Executive,Graduate,Divorced,149841,6,49788,8,9,0,No,1,1,5,No
+1397,50,Female,Sales,Manager,Diploma,Single,67445,5,7946,6,100,40,Yes,4,2,2,No
+1398,39,Female,Sales,Manager,MBA,Divorced,27000,6,40315,15,36,25,No,4,1,1,No
+1399,47,Male,IT,Manager,PHD,Divorced,33033,5,38955,1,54,1,No,2,4,2,Yes
+1400,27,Male,Operations,Team Leader,PHD,Divorced,84850,20,17260,13,44,32,No,1,4,1,No
+1401,22,Male,Marketing,Team Leader,Master,Divorced,108577,17,21496,4,62,2,Yes,3,1,3,No
+1402,50,Male,Marketing,Executive,PHD,Single,108240,10,44775,6,123,35,No,3,2,2,No
+1403,25,Female,Marketing,Senior Executive,Diploma,Divorced,69951,25,12063,8,85,8,Yes,4,2,1,Yes
+1404,45,Male,Operations,Manager,PHD,Married,143801,6,1011,13,149,37,No,1,1,3,Yes
+1405,49,Female,FInance,Lead Analyst,PHD,Married,108415,15,23641,19,102,28,Yes,3,3,1,Yes
+1406,24,Female,FInance,Manager,Graduate,Divorced,61801,23,33588,15,42,12,Yes,2,3,4,Yes
+1407,49,Female,FInance,Senior Executive,MBA,Married,34345,20,3104,14,28,5,No,2,2,3,No
+1408,34,Male,IT,Team Leader,Graduate,Married,118821,23,24843,4,82,29,No,2,1,4,Yes
+1409,46,Female,IT,Manager,PHD,Divorced,122140,5,43732,15,128,12,Yes,1,1,5,Yes
+1410,48,Female,HR,Team Leader,Diploma,Divorced,36715,12,49249,19,150,37,No,1,3,4,Yes
+1411,41,Male,IT,Senior Executive,Master,Married,25032,25,685,16,72,27,No,2,2,3,Yes
+1412,48,Female,Sales,Executive,Graduate,Married,93556,7,32093,11,133,9,No,2,2,1,No
+1413,51,Female,FInance,Team Leader,PHD,Married,64707,6,4162,5,102,19,No,3,4,2,No
+1414,22,Male,Marketing,Executive,Master,Married,71840,5,34344,1,36,34,Yes,3,4,4,Yes
+1415,54,Female,Sales,Team Leader,MBA,Divorced,35088,20,22016,9,111,6,Yes,4,4,4,No
+1416,44,Male,IT,Assistant,Graduate,Divorced,64356,11,23550,10,44,33,Yes,4,3,2,Yes
+1417,31,Female,Sales,Executive,Master,Divorced,94849,10,294,11,136,25,No,1,4,1,Yes
+1418,53,Female,Sales,Manager,MBA,Divorced,53397,11,6866,17,54,18,Yes,4,3,1,No
+1419,24,Female,Operations,Executive,Master,Divorced,65982,19,37110,14,8,20,No,1,4,2,No
+1420,44,Female,FInance,Manager,MBA,Divorced,67114,6,32428,20,23,1,No,2,3,3,No
+1421,40,Female,HR,Senior Executive,Diploma,Married,56644,6,29732,13,50,28,Yes,4,3,3,Yes
+1422,33,Male,Sales,Assistant,PHD,Single,30120,9,14241,15,113,21,Yes,1,2,1,No
+1423,32,Male,IT,Executive,MBA,Divorced,81378,20,8676,16,19,11,Yes,1,2,1,Yes
+1424,32,Female,Marketing,Manager,Master,Single,111618,7,45274,8,141,17,Yes,1,2,1,Yes
+1425,25,Female,Marketing,Assistant,Diploma,Divorced,113618,22,4861,17,121,16,No,3,2,4,Yes
+1426,49,Male,HR,Executive,Graduate,Single,27189,20,3071,10,10,17,No,4,1,4,Yes
+1427,49,Female,FInance,Assistant,Diploma,Divorced,107336,22,29171,12,42,34,Yes,4,1,4,No
+1428,25,Male,Operations,Team Leader,Graduate,Divorced,108405,15,1102,4,99,31,No,3,2,5,No
+1429,48,Male,FInance,Senior Executive,Master,Married,31525,23,5608,9,91,29,Yes,1,2,3,No
+1430,31,Female,FInance,Executive,PHD,Single,29374,13,37296,9,115,5,Yes,4,4,1,Yes
+1431,45,Male,HR,Team Leader,MBA,Divorced,47436,9,35363,8,148,0,No,3,4,4,No
+1432,35,Female,Sales,Manager,Master,Single,112473,15,23724,6,4,29,No,1,4,1,No
+1433,25,Female,IT,Assistant,MBA,Divorced,122044,23,29160,15,115,24,No,4,4,4,Yes
+1434,30,Male,Marketing,Assistant,Diploma,Single,17501,25,19842,13,16,17,Yes,3,4,1,No
+1435,55,Female,FInance,Manager,Graduate,Divorced,80507,17,5615,13,80,25,No,4,1,3,No
+1436,27,Male,Operations,Team Leader,PHD,Single,128280,9,7259,13,109,36,Yes,2,3,4,Yes
+1437,43,Male,Marketing,Senior Executive,Diploma,Married,105437,20,16720,19,85,29,Yes,3,2,1,Yes
+1438,47,Female,IT,Team Leader,MBA,Divorced,122734,16,370,5,143,4,No,3,1,4,No
+1439,46,Male,Operations,Assistant,Master,Single,85305,16,35312,11,150,36,Yes,3,3,2,Yes
+1440,23,Male,HR,Team Leader,Graduate,Single,53167,19,49761,3,144,26,Yes,4,4,3,Yes
+1441,43,Male,IT,Lead Analyst,Master,Married,118260,17,30030,9,75,31,Yes,2,4,5,No
+1442,22,Male,Operations,Senior Executive,Master,Divorced,42924,16,3938,12,150,26,No,2,1,5,Yes
+1443,23,Female,Sales,Executive,Master,Single,57137,9,7290,5,26,40,Yes,3,4,2,No
+1444,25,Female,FInance,Executive,Diploma,Married,92928,12,43684,11,82,23,No,3,4,2,No
+1445,39,Female,Operations,Assistant,MBA,Divorced,23049,16,30849,14,73,38,Yes,1,4,3,Yes
+1446,41,Male,Sales,Team Leader,MBA,Married,78411,10,12245,19,64,33,No,2,4,2,Yes
+1447,45,Female,Operations,Assistant,Master,Divorced,98144,7,43767,19,83,21,Yes,2,2,2,No
+1448,35,Female,Operations,Executive,Graduate,Divorced,84614,17,11834,2,77,28,Yes,1,4,4,No
+1449,32,Female,IT,Assistant,Master,Divorced,105779,23,17650,17,4,32,Yes,4,1,1,No
+1450,44,Female,Sales,Manager,PHD,Married,124699,16,49015,3,70,18,Yes,1,3,2,No
+1451,51,Female,FInance,Manager,Graduate,Married,81892,13,25923,6,49,37,No,2,1,3,Yes
+1452,34,Female,Marketing,Executive,Diploma,Married,34690,6,38597,17,20,30,Yes,4,1,1,Yes
+1453,54,Male,FInance,Senior Executive,Master,Single,147885,21,35683,20,134,10,No,2,4,5,No
+1454,29,Male,Marketing,Executive,PHD,Married,25168,9,11899,5,133,10,Yes,4,1,5,Yes
+1455,44,Female,HR,Team Leader,Diploma,Married,116832,15,49980,18,127,10,Yes,1,2,5,Yes
+1456,32,Female,HR,Lead Analyst,Master,Single,33031,16,6799,14,104,10,Yes,3,2,3,Yes
+1457,38,Male,HR,Executive,Master,Divorced,88389,5,42294,5,81,39,No,1,4,1,No
+1458,25,Female,IT,Senior Executive,PHD,Married,15059,13,10536,15,91,32,Yes,4,4,5,Yes
+1459,40,Female,HR,Assistant,MBA,Married,39427,19,12771,3,139,38,No,1,1,2,Yes
+1460,52,Male,IT,Team Leader,Diploma,Married,28297,20,15338,13,29,13,No,4,3,1,Yes
+1461,49,Female,IT,Lead Analyst,Master,Married,131708,23,36286,20,121,2,No,4,3,4,Yes
+1462,27,Male,HR,Executive,Diploma,Single,24711,25,12092,2,103,0,Yes,3,1,4,No
+1463,25,Male,HR,Manager,PHD,Divorced,41341,22,35699,17,59,26,No,1,3,5,Yes
+1464,44,Male,FInance,Team Leader,Master,Single,116145,19,41729,8,51,6,Yes,1,3,5,Yes
+1465,42,Male,Operations,Assistant,MBA,Married,137413,7,8440,17,98,32,Yes,2,2,5,No
+1466,22,Female,Operations,Executive,MBA,Single,44681,16,22801,20,123,29,Yes,2,3,1,Yes
+1467,41,Male,Sales,Assistant,Graduate,Married,122504,21,13829,7,122,36,Yes,4,1,5,No
+1468,50,Male,Sales,Team Leader,Master,Married,19097,20,42168,13,51,25,Yes,2,3,4,Yes
+1469,32,Male,IT,Lead Analyst,Diploma,Single,54787,5,19961,14,7,18,No,3,3,2,Yes
+1470,40,Male,HR,Senior Executive,Master,Single,55977,24,44255,19,26,29,Yes,4,4,5,Yes
+1471,24,Female,FInance,Lead Analyst,MBA,Divorced,112565,20,14778,19,26,25,Yes,4,3,3,No
+1472,42,Male,HR,Senior Executive,MBA,Divorced,106163,7,38085,3,51,10,No,2,4,2,No
+1473,55,Male,HR,Lead Analyst,Diploma,Married,124033,9,31910,9,19,18,No,2,4,3,No
+1474,53,Male,HR,Team Leader,PHD,Married,75617,12,16513,8,8,27,Yes,1,3,4,Yes
+1475,45,Female,Operations,Assistant,Diploma,Divorced,104119,9,22302,7,108,7,Yes,2,3,3,No
+1476,32,Male,HR,Manager,Diploma,Divorced,111963,17,32406,20,0,33,Yes,2,3,5,No
+1477,24,Male,IT,Assistant,Graduate,Single,140736,11,41538,7,12,27,Yes,3,2,4,Yes
+1478,26,Female,IT,Senior Executive,Master,Married,48305,14,40209,10,100,29,No,2,4,3,Yes
+1479,54,Female,Sales,Senior Executive,MBA,Single,39296,19,19406,19,120,28,Yes,3,2,4,Yes
+1480,40,Female,Marketing,Assistant,Master,Single,17916,8,42200,12,16,16,Yes,1,1,1,No
+1481,29,Male,FInance,Executive,Graduate,Single,145733,18,8215,8,36,29,No,2,1,4,No
+1482,33,Male,IT,Lead Analyst,MBA,Single,115628,17,3821,8,96,31,Yes,1,2,2,No
+1483,21,Female,HR,Assistant,Master,Married,123605,11,27667,5,147,37,No,2,3,1,No
+1484,50,Female,Marketing,Team Leader,Graduate,Divorced,130544,25,49566,3,140,36,Yes,3,3,3,Yes
+1485,36,Female,HR,Assistant,MBA,Single,130336,11,1909,12,87,29,Yes,4,1,1,Yes
+1486,45,Female,IT,Lead Analyst,Master,Divorced,85908,14,18349,11,38,14,No,3,3,1,No
+1487,21,Female,Sales,Senior Executive,Graduate,Single,102793,14,579,1,0,19,No,2,2,2,Yes
+1488,46,Female,FInance,Manager,PHD,Divorced,18817,10,5761,4,112,23,Yes,3,4,1,Yes
+1489,23,Male,HR,Lead Analyst,Master,Married,17119,22,5054,17,85,36,No,2,1,5,Yes
+1490,50,Female,HR,Assistant,PHD,Divorced,31780,9,34569,17,16,14,No,1,1,1,No
+1491,31,Female,Operations,Manager,Master,Married,24217,15,38328,19,91,35,Yes,2,3,1,Yes
+1492,39,Male,Sales,Lead Analyst,Graduate,Divorced,133429,5,48614,6,132,36,Yes,4,3,3,No
+1493,40,Female,Operations,Manager,MBA,Divorced,122647,8,43134,6,124,3,Yes,2,1,1,No
+1494,48,Female,Marketing,Executive,Graduate,Single,18843,21,16575,9,68,39,No,4,2,3,Yes
+1495,40,Male,IT,Manager,Graduate,Single,104310,6,12830,6,49,40,Yes,1,3,1,Yes
+1496,35,Male,FInance,Team Leader,MBA,Single,105433,15,26116,8,19,38,Yes,1,3,1,Yes
+1497,53,Female,Operations,Lead Analyst,Diploma,Single,126319,21,8773,2,138,4,Yes,4,4,4,No
+1498,43,Female,Marketing,Team Leader,MBA,Married,30370,22,14600,19,132,40,No,4,4,3,Yes
+1499,42,Female,FInance,Senior Executive,Diploma,Divorced,133365,14,10128,12,131,9,No,1,4,1,No
+1500,35,Male,IT,Executive,Master,Single,120851,24,37741,8,20,27,Yes,2,3,4,Yes
+1501,21,Female,FInance,Executive,Master,Married,59973,12,1156,13,8,10,Yes,1,4,5,Yes
+1502,30,Female,Sales,Lead Analyst,Master,Married,141428,5,20680,11,20,24,No,3,2,2,No
+1503,38,Female,Operations,Team Leader,Master,Divorced,48099,14,35622,12,69,16,Yes,2,1,3,No
+1504,50,Female,Operations,Assistant,Diploma,Married,44934,20,11576,18,21,2,Yes,4,2,1,Yes
+1505,43,Male,IT,Team Leader,Master,Divorced,92858,8,43022,9,33,10,No,1,2,1,Yes
+1506,25,Female,Marketing,Manager,MBA,Married,57896,16,26452,3,31,7,No,1,1,1,Yes
+1507,43,Male,HR,Executive,Master,Single,74066,7,31778,13,57,29,Yes,3,2,4,Yes
+1508,55,Male,FInance,Manager,Graduate,Divorced,57481,11,33182,4,122,20,Yes,2,1,1,Yes
+1509,31,Female,IT,Senior Executive,Master,Married,64279,23,43355,16,98,4,Yes,4,4,5,Yes
+1510,42,Male,Sales,Team Leader,Graduate,Married,98883,7,12557,14,18,33,No,2,4,4,No
+1511,38,Female,Marketing,Executive,Master,Married,79664,14,28027,13,86,14,No,2,3,5,Yes
+1512,35,Female,HR,Lead Analyst,Diploma,Single,128385,23,9409,7,92,12,No,1,3,5,No
+1513,41,Female,Marketing,Assistant,Diploma,Divorced,65108,25,38320,5,0,14,No,4,1,2,No
+1514,46,Female,HR,Senior Executive,MBA,Married,86082,11,9762,14,136,21,Yes,2,2,3,Yes
+1515,22,Female,HR,Manager,Graduate,Divorced,103889,15,35442,8,134,8,Yes,3,1,5,No
+1516,47,Male,HR,Senior Executive,MBA,Married,58898,7,12028,11,57,0,No,2,1,1,Yes
+1517,25,Male,FInance,Assistant,PHD,Single,106864,14,34374,11,87,35,Yes,1,1,5,No
+1518,49,Male,FInance,Senior Executive,Diploma,Married,81606,24,7371,10,63,37,No,2,4,3,Yes
+1519,35,Male,FInance,Executive,Master,Divorced,100271,7,27272,16,75,26,No,4,3,3,No
+1520,49,Male,HR,Senior Executive,Diploma,Divorced,88094,16,18485,5,83,1,No,4,2,5,No
+1521,32,Female,Sales,Senior Executive,PHD,Single,80141,24,24608,3,26,24,No,3,3,1,Yes
+1522,23,Male,Sales,Team Leader,Diploma,Married,81943,15,31561,9,29,31,Yes,2,2,5,Yes
+1523,29,Female,Operations,Senior Executive,Diploma,Divorced,76873,22,5094,7,132,1,No,1,2,3,Yes
+1524,42,Female,IT,Manager,PHD,Married,101912,8,13865,3,68,39,No,2,2,3,Yes
+1525,38,Female,Operations,Assistant,Diploma,Single,75169,7,4911,13,98,0,No,4,3,1,Yes
+1526,37,Female,Operations,Lead Analyst,PHD,Married,95990,14,4979,11,87,17,No,3,2,5,Yes
+1527,27,Female,Sales,Assistant,MBA,Divorced,91508,9,35995,10,17,5,No,1,4,5,Yes
+1528,45,Male,Operations,Manager,Graduate,Divorced,67409,22,41160,15,37,19,No,4,3,5,No
+1529,27,Female,IT,Team Leader,Diploma,Married,55624,5,36041,13,75,27,No,3,4,3,Yes
+1530,44,Male,Marketing,Executive,Graduate,Married,40610,18,17812,2,36,21,No,1,3,1,Yes
+1531,21,Male,Sales,Executive,Diploma,Divorced,30671,5,8332,6,106,20,No,1,1,4,Yes
+1532,35,Female,Marketing,Senior Executive,Master,Divorced,42125,18,16022,19,132,36,No,3,2,4,Yes
+1533,48,Female,HR,Executive,MBA,Married,86350,23,45072,8,17,11,Yes,2,2,1,Yes
+1534,37,Male,HR,Team Leader,PHD,Single,149273,9,13117,18,5,35,No,1,3,3,Yes
+1535,42,Male,Marketing,Assistant,Master,Divorced,91218,10,39970,14,48,30,Yes,4,2,4,Yes
+1536,39,Male,Sales,Executive,Graduate,Divorced,56946,23,2968,7,116,5,Yes,2,1,5,Yes
+1537,46,Male,Sales,Senior Executive,Graduate,Single,45227,19,25096,17,121,36,Yes,1,1,5,Yes
+1538,50,Male,Operations,Senior Executive,Graduate,Divorced,57416,14,45683,3,149,23,No,2,3,1,No
+1539,24,Female,IT,Senior Executive,Graduate,Divorced,144109,18,36195,19,71,19,No,2,4,1,No
+1540,49,Female,Sales,Executive,Master,Married,130839,7,44021,20,32,32,No,1,1,1,No
+1541,55,Male,Operations,Lead Analyst,Graduate,Married,31973,15,40956,1,12,5,Yes,2,4,5,No
+1542,27,Male,FInance,Assistant,Graduate,Single,108575,17,15374,8,55,32,No,4,4,3,No
+1543,34,Female,HR,Manager,Graduate,Single,50568,12,41604,16,11,14,No,1,4,4,Yes
+1544,38,Female,Sales,Senior Executive,Diploma,Married,95815,23,21905,2,72,38,No,4,1,1,Yes
+1545,25,Female,IT,Team Leader,PHD,Divorced,54613,23,33953,7,64,40,Yes,2,2,1,Yes
+1546,29,Male,HR,Assistant,Master,Single,129728,5,3631,13,16,35,Yes,1,2,3,Yes
+1547,27,Male,IT,Senior Executive,MBA,Married,18872,14,10786,7,3,10,Yes,3,1,5,Yes
+1548,48,Male,Operations,Assistant,MBA,Married,142758,10,42182,14,93,10,No,2,1,5,No
+1549,21,Female,HR,Assistant,Diploma,Divorced,76932,15,39531,17,23,15,Yes,1,2,1,Yes
+1550,45,Female,Operations,Manager,MBA,Married,146970,11,12695,20,55,0,Yes,3,2,2,No
+1551,45,Female,HR,Manager,Graduate,Single,60824,6,13812,3,14,32,Yes,3,4,1,Yes
+1552,35,Female,FInance,Team Leader,Diploma,Married,101461,8,34797,1,9,34,No,4,3,4,Yes
+1553,34,Female,HR,Lead Analyst,Master,Married,104585,21,6154,16,7,27,No,2,4,3,No
+1554,54,Female,IT,Assistant,MBA,Single,119390,25,17083,7,47,24,No,4,1,3,No
+1555,34,Female,Sales,Manager,Diploma,Married,125810,25,4538,12,27,28,Yes,1,3,5,Yes
+1556,23,Female,Operations,Senior Executive,Diploma,Divorced,128219,24,29857,10,79,21,No,1,1,4,Yes
+1557,36,Male,HR,Manager,Master,Married,21639,19,3265,6,123,30,Yes,4,3,1,Yes
+1558,30,Female,Operations,Team Leader,Graduate,Married,23595,23,34582,8,54,22,No,3,2,4,Yes
+1559,21,Female,IT,Manager,Master,Single,108744,6,47094,12,59,0,No,2,3,3,Yes
+1560,34,Male,IT,Team Leader,MBA,Divorced,56410,11,34566,3,60,4,Yes,4,3,2,No
+1561,28,Female,Operations,Team Leader,Master,Married,142617,19,39500,7,49,13,Yes,1,3,3,No
+1562,32,Male,Sales,Lead Analyst,Graduate,Married,85630,11,1766,10,24,2,Yes,1,4,4,No
+1563,48,Male,IT,Senior Executive,MBA,Married,65607,16,13188,11,135,21,No,1,3,2,Yes
+1564,21,Female,Marketing,Assistant,MBA,Divorced,29167,6,23519,6,55,30,Yes,3,3,4,No
+1565,43,Male,Sales,Manager,Master,Married,123672,18,46034,7,104,0,No,3,2,4,Yes
+1566,53,Male,FInance,Manager,Graduate,Single,27866,18,47170,15,108,14,Yes,3,1,4,Yes
+1567,34,Female,IT,Assistant,MBA,Single,121444,23,41362,13,72,32,No,1,2,1,No
+1568,35,Male,Sales,Senior Executive,Graduate,Single,52054,15,6371,8,89,34,Yes,2,3,3,Yes
+1569,30,Male,FInance,Team Leader,MBA,Married,102173,22,39807,15,7,17,No,4,2,1,Yes
+1570,32,Female,Sales,Executive,PHD,Divorced,143835,14,3951,2,124,14,No,4,4,2,No
+1571,37,Male,FInance,Lead Analyst,Master,Single,43421,12,7011,11,26,28,Yes,2,4,4,No
+1572,39,Male,IT,Manager,Master,Married,115549,25,10412,16,2,15,Yes,3,3,2,No
+1573,40,Female,HR,Team Leader,MBA,Single,120289,11,16403,18,98,34,No,3,1,1,Yes
+1574,49,Female,IT,Manager,Master,Divorced,109654,7,15095,6,6,6,No,4,2,3,No
+1575,31,Male,Operations,Executive,PHD,Married,26345,8,7509,13,23,37,No,1,4,3,No
+1576,30,Male,FInance,Senior Executive,Diploma,Married,143302,7,15516,1,68,14,Yes,4,1,4,No
+1577,30,Female,Marketing,Lead Analyst,PHD,Single,142846,5,37702,19,109,34,No,2,2,5,Yes
+1578,29,Male,Sales,Team Leader,MBA,Divorced,143622,6,32075,10,12,30,Yes,3,4,4,Yes
+1579,32,Male,Sales,Senior Executive,Master,Married,72012,9,49298,7,96,20,Yes,2,2,3,No
+1580,45,Male,Operations,Team Leader,Diploma,Single,142173,12,12966,6,27,16,No,2,3,3,Yes
+1581,48,Male,Sales,Senior Executive,Graduate,Divorced,82781,14,3584,3,71,8,Yes,1,3,3,Yes
+1582,42,Male,Marketing,Senior Executive,MBA,Divorced,83618,7,26022,6,107,31,No,4,4,2,No
+1583,51,Female,FInance,Executive,Diploma,Married,23266,8,16093,13,149,18,Yes,4,1,4,No
+1584,52,Male,FInance,Lead Analyst,PHD,Divorced,74660,10,41829,1,73,0,Yes,1,3,5,No
+1585,53,Female,FInance,Lead Analyst,Graduate,Married,79730,13,34571,3,2,32,Yes,1,4,1,Yes
+1586,35,Female,FInance,Lead Analyst,PHD,Married,100194,15,29944,18,91,33,No,3,3,4,No
+1587,51,Male,FInance,Team Leader,Graduate,Divorced,140724,20,32554,3,5,5,Yes,4,3,1,Yes
+1588,40,Male,IT,Lead Analyst,Master,Single,117288,7,12890,6,92,5,Yes,1,1,5,No
+1589,47,Female,IT,Assistant,PHD,Single,66167,22,22803,16,59,6,No,3,3,5,Yes
+1590,25,Female,IT,Assistant,Diploma,Married,68449,14,16961,13,78,1,Yes,3,4,1,No
+1591,36,Male,FInance,Lead Analyst,Diploma,Divorced,49882,16,24238,20,41,19,No,2,2,1,No
+1592,26,Female,HR,Assistant,Graduate,Single,22586,11,33275,2,7,11,No,4,2,4,No
+1593,30,Female,IT,Executive,Diploma,Divorced,46089,24,19083,9,65,30,Yes,1,4,4,Yes
+1594,32,Female,Marketing,Executive,MBA,Single,30682,5,42833,11,82,13,Yes,3,2,5,No
+1595,52,Female,HR,Executive,MBA,Married,52371,22,9384,12,71,29,No,1,3,1,Yes
+1596,48,Male,IT,Senior Executive,MBA,Married,123274,22,4368,6,97,4,Yes,4,1,5,Yes
+1597,53,Male,Operations,Senior Executive,Master,Single,59699,18,46468,5,51,2,No,4,1,1,Yes
+1598,40,Male,IT,Senior Executive,Graduate,Divorced,106689,8,23952,3,43,12,No,4,3,1,Yes
+1599,42,Female,HR,Executive,Diploma,Divorced,53661,8,48540,20,36,12,No,1,2,4,Yes
+1600,51,Male,Sales,Senior Executive,PHD,Married,49700,15,38937,3,32,25,No,3,3,1,Yes
+1601,32,Female,IT,Team Leader,PHD,Married,80276,10,41292,15,1,10,No,2,3,1,No
+1602,37,Male,Marketing,Team Leader,Graduate,Married,78885,24,42050,11,92,24,No,3,3,5,No
+1603,50,Female,HR,Assistant,Diploma,Married,61407,5,47763,6,24,12,No,3,4,4,No
+1604,42,Female,IT,Assistant,MBA,Divorced,37711,10,37022,13,62,37,No,2,2,3,No
+1605,32,Female,IT,Assistant,Graduate,Divorced,106765,17,6730,17,13,3,Yes,3,3,3,Yes
+1606,50,Female,FInance,Senior Executive,Master,Single,75116,20,18868,12,44,3,No,2,3,1,Yes
+1607,32,Female,Marketing,Assistant,MBA,Single,48102,25,47643,6,119,28,No,2,1,5,Yes
+1608,50,Female,Sales,Lead Analyst,MBA,Single,110645,17,21884,1,40,28,Yes,3,4,1,No
+1609,50,Male,Marketing,Executive,PHD,Single,43995,8,38443,11,84,32,No,3,3,5,Yes
+1610,37,Male,Sales,Team Leader,Graduate,Single,66899,16,20050,1,132,12,No,2,3,2,Yes
+1611,32,Female,FInance,Executive,Master,Divorced,141507,22,15462,7,78,11,No,2,4,5,Yes
+1612,32,Male,Sales,Team Leader,Master,Married,75118,22,30052,4,60,20,No,2,2,5,Yes
+1613,32,Male,HR,Manager,Graduate,Married,113581,15,34833,7,85,7,Yes,1,4,2,Yes
+1614,40,Male,Marketing,Senior Executive,Diploma,Single,127302,10,8181,14,78,3,No,3,1,2,Yes
+1615,36,Male,Sales,Senior Executive,PHD,Divorced,123950,24,22881,6,47,29,Yes,3,3,5,No
+1616,22,Male,IT,Manager,Diploma,Divorced,40230,7,31369,10,132,24,No,4,3,3,Yes
+1617,21,Male,Operations,Senior Executive,Master,Married,120369,23,31578,19,41,20,No,2,4,4,No
+1618,21,Female,Operations,Executive,Diploma,Married,18608,24,27388,5,109,20,Yes,4,1,5,No
+1619,55,Female,FInance,Lead Analyst,Master,Single,113489,7,32217,2,73,7,No,3,4,3,No
+1620,34,Female,IT,Executive,MBA,Married,135293,14,45181,4,22,1,No,1,2,3,No
+1621,24,Male,Sales,Assistant,MBA,Married,133838,22,39863,11,75,13,No,3,3,1,Yes
+1622,40,Male,Operations,Assistant,MBA,Divorced,147592,6,20957,15,16,22,Yes,1,3,3,No
+1623,39,Female,IT,Assistant,MBA,Divorced,94103,11,35284,5,71,20,Yes,4,2,1,Yes
+1624,36,Female,Operations,Assistant,MBA,Divorced,86953,11,24873,3,122,24,Yes,2,1,4,Yes
+1625,30,Female,IT,Executive,PHD,Single,148048,25,44670,1,38,30,No,2,3,1,Yes
+1626,37,Female,Sales,Lead Analyst,PHD,Married,64295,11,22433,15,78,40,Yes,1,1,1,Yes
+1627,50,Male,FInance,Assistant,Graduate,Divorced,100804,14,26756,7,47,27,No,4,4,3,Yes
+1628,24,Female,Operations,Team Leader,MBA,Married,84113,22,14088,9,15,8,No,3,3,4,No
+1629,45,Male,Marketing,Manager,MBA,Married,100879,21,10021,9,126,33,Yes,4,4,4,Yes
+1630,37,Male,HR,Assistant,PHD,Married,100135,18,20708,14,62,16,No,3,1,3,No
+1631,46,Male,Operations,Executive,Graduate,Married,145447,19,14473,12,64,37,No,1,4,4,Yes
+1632,34,Male,IT,Team Leader,PHD,Married,91468,23,42463,17,127,1,Yes,1,1,4,No
+1633,21,Male,Marketing,Team Leader,Master,Divorced,61490,6,9431,7,37,36,Yes,2,3,4,Yes
+1634,44,Male,Sales,Manager,MBA,Married,110010,12,44065,17,142,4,No,3,4,3,No
+1635,40,Female,Sales,Manager,Master,Single,26724,9,39935,6,76,15,No,3,3,4,No
+1636,51,Female,Marketing,Lead Analyst,Diploma,Married,112378,5,11147,17,37,11,No,3,3,3,Yes
+1637,38,Male,HR,Executive,Graduate,Married,32478,18,42715,8,19,7,No,3,1,5,Yes
+1638,46,Male,FInance,Executive,PHD,Divorced,56278,15,30940,7,31,25,No,4,1,2,Yes
+1639,24,Female,Marketing,Executive,Diploma,Single,68218,7,41376,15,135,28,Yes,4,3,3,No
+1640,21,Female,Marketing,Assistant,MBA,Married,126374,14,13497,10,77,25,Yes,4,3,3,Yes
+1641,23,Female,Operations,Executive,MBA,Married,147440,15,37432,6,56,24,Yes,4,3,5,No
+1642,33,Male,Operations,Manager,Diploma,Married,24299,11,7341,15,27,26,No,3,1,3,No
+1643,37,Female,FInance,Senior Executive,PHD,Divorced,97812,9,6619,16,143,20,Yes,2,2,1,Yes
+1644,24,Male,IT,Executive,Master,Married,64650,20,28312,6,34,29,Yes,1,1,2,Yes
+1645,30,Male,FInance,Assistant,Master,Single,74174,19,45270,18,23,4,No,4,1,5,Yes
+1646,34,Female,Operations,Senior Executive,Diploma,Married,84170,16,29182,2,105,23,No,4,4,2,No
+1647,29,Female,IT,Lead Analyst,PHD,Single,72125,11,44747,17,44,39,Yes,3,1,4,Yes
+1648,49,Female,Operations,Manager,Diploma,Married,86559,25,39626,7,48,32,Yes,3,2,3,No
+1649,43,Female,Marketing,Team Leader,MBA,Single,127209,20,969,13,40,8,Yes,3,4,1,Yes
+1650,40,Male,Marketing,Team Leader,Diploma,Divorced,15395,19,22411,4,27,7,No,1,4,5,No
+1651,29,Male,Operations,Senior Executive,PHD,Married,84398,7,15770,14,130,16,Yes,1,3,3,No
+1652,50,Male,Marketing,Team Leader,MBA,Divorced,110055,8,23232,4,53,37,No,3,2,2,No
+1653,53,Female,Marketing,Lead Analyst,Graduate,Divorced,115682,16,10554,11,37,5,No,4,4,2,No
+1654,54,Male,HR,Team Leader,PHD,Divorced,32953,15,36005,19,14,16,No,1,2,2,Yes
+1655,21,Male,Operations,Lead Analyst,PHD,Married,103834,15,45858,6,92,7,No,1,4,2,No
+1656,32,Female,Marketing,Executive,Diploma,Married,101832,9,42272,8,16,33,Yes,3,4,3,No
+1657,30,Male,Operations,Senior Executive,Master,Single,48140,13,30679,3,150,5,Yes,2,4,3,Yes
+1658,22,Male,Marketing,Team Leader,PHD,Married,74427,19,11652,15,148,3,Yes,4,4,5,Yes
+1659,48,Male,Operations,Executive,Graduate,Divorced,85333,18,46885,18,79,23,No,3,2,4,No
+1660,35,Female,IT,Assistant,Diploma,Single,133834,7,13914,5,5,9,Yes,4,4,3,No
+1661,53,Female,Marketing,Executive,MBA,Single,134750,9,46693,14,10,6,Yes,3,1,5,Yes
+1662,37,Male,Marketing,Executive,Graduate,Married,137754,21,45290,10,50,31,Yes,3,4,2,Yes
+1663,23,Male,Marketing,Assistant,Master,Divorced,74909,16,43621,18,42,11,No,3,2,3,Yes
+1664,38,Female,HR,Manager,PHD,Divorced,76183,16,6548,13,57,40,Yes,4,4,1,No
+1665,55,Male,FInance,Senior Executive,MBA,Divorced,77566,8,24228,13,28,21,No,4,3,3,Yes
+1666,23,Female,Marketing,Lead Analyst,PHD,Married,110151,18,5533,12,120,20,No,4,2,2,No
+1667,27,Male,IT,Assistant,Graduate,Single,15105,9,37529,11,135,37,No,2,1,3,No
+1668,32,Male,FInance,Assistant,Graduate,Divorced,133783,13,10146,17,57,1,No,2,2,2,Yes
+1669,54,Female,IT,Assistant,Diploma,Married,23238,8,4387,13,46,15,Yes,2,2,1,Yes
+1670,51,Female,Marketing,Executive,PHD,Divorced,95153,24,2408,16,104,0,Yes,3,3,2,No
+1671,49,Male,Marketing,Executive,PHD,Single,122648,25,10473,3,95,32,No,3,2,2,No
+1672,51,Female,FInance,Lead Analyst,Graduate,Divorced,91908,24,44060,13,2,19,No,2,1,3,Yes
+1673,26,Female,Sales,Assistant,PHD,Single,41511,20,41023,4,43,21,No,1,3,3,Yes
+1674,37,Male,Operations,Manager,PHD,Single,110954,10,33832,1,37,10,No,3,4,3,No
+1675,55,Male,Sales,Executive,Master,Single,58624,24,4691,11,29,22,No,2,1,3,Yes
+1676,48,Male,HR,Lead Analyst,Master,Married,146526,15,46923,18,10,32,No,4,1,4,Yes
+1677,34,Male,IT,Team Leader,MBA,Married,112112,15,35890,6,89,36,Yes,4,4,2,No
+1678,29,Female,Sales,Manager,Diploma,Single,26461,17,19794,20,135,28,No,4,3,1,Yes
+1679,33,Male,HR,Team Leader,Master,Married,101570,15,10092,19,82,40,Yes,1,3,1,No
+1680,53,Female,HR,Executive,Master,Divorced,100617,20,25395,17,49,31,No,3,1,1,No
+1681,31,Female,IT,Manager,Master,Divorced,27186,25,40404,18,101,31,No,4,1,2,No
+1682,39,Male,Operations,Assistant,MBA,Divorced,43936,15,44756,5,131,4,Yes,3,4,4,No
+1683,39,Female,IT,Senior Executive,MBA,Single,30349,17,37083,3,65,28,Yes,3,4,3,Yes
+1684,38,Female,Operations,Team Leader,Graduate,Divorced,140197,8,27236,16,63,22,No,1,1,2,Yes
+1685,37,Female,IT,Executive,MBA,Divorced,125887,10,11842,2,54,12,Yes,3,1,2,No
+1686,47,Male,FInance,Manager,MBA,Divorced,43186,22,39219,19,5,2,Yes,2,4,5,Yes
+1687,34,Male,Marketing,Executive,PHD,Divorced,18058,5,45096,9,144,32,Yes,1,2,3,Yes
+1688,23,Male,Marketing,Assistant,Master,Divorced,138905,24,35891,12,121,29,No,4,4,2,Yes
+1689,21,Female,Sales,Senior Executive,Graduate,Single,44276,6,33675,5,60,19,No,2,3,3,No
+1690,54,Female,Marketing,Senior Executive,Master,Single,60155,24,2010,16,119,15,Yes,4,2,5,Yes
+1691,21,Female,Marketing,Executive,PHD,Divorced,89861,5,37081,16,42,25,No,1,1,2,No
+1692,22,Male,HR,Manager,PHD,Single,72626,12,11301,1,59,26,Yes,3,3,3,Yes
+1693,26,Female,Operations,Manager,Diploma,Single,41688,8,33724,2,67,6,No,1,4,1,No
+1694,43,Female,IT,Executive,MBA,Married,74577,18,26525,5,51,22,No,3,3,1,Yes
+1695,47,Female,Operations,Manager,Diploma,Divorced,53873,11,20510,3,7,8,Yes,1,4,1,No
+1696,32,Female,IT,Assistant,MBA,Single,107459,11,43374,5,100,14,Yes,2,3,2,Yes
+1697,23,Male,IT,Executive,MBA,Married,100796,16,38688,2,79,8,Yes,4,4,1,No
+1698,25,Female,Operations,Lead Analyst,Diploma,Divorced,141500,19,33161,5,87,7,No,1,1,4,No
+1699,25,Female,Sales,Senior Executive,Master,Married,28647,25,24327,13,129,17,Yes,3,4,4,No
+1700,21,Female,FInance,Assistant,MBA,Single,126585,18,39743,1,147,18,Yes,3,3,5,No
+1701,22,Female,IT,Senior Executive,Master,Single,59674,5,5709,14,96,33,Yes,4,4,2,Yes
+1702,44,Male,Operations,Team Leader,PHD,Married,100658,7,9995,11,28,17,Yes,4,2,4,Yes
+1703,54,Female,IT,Assistant,MBA,Single,77799,6,49160,13,129,10,Yes,4,2,3,No
+1704,45,Female,FInance,Executive,PHD,Divorced,115269,20,13676,9,119,33,Yes,2,3,1,No
+1705,31,Female,IT,Assistant,Graduate,Married,135438,23,43337,10,140,6,No,4,1,4,Yes
+1706,50,Female,HR,Senior Executive,Diploma,Divorced,58446,23,549,3,39,3,No,1,4,4,Yes
+1707,51,Male,Operations,Senior Executive,Diploma,Single,145022,15,38725,3,108,35,No,2,3,3,Yes
+1708,26,Female,Sales,Assistant,Graduate,Single,29634,9,32984,10,69,24,Yes,4,4,2,Yes
+1709,40,Male,Sales,Executive,MBA,Single,72980,11,49144,20,137,17,No,1,2,2,Yes
+1710,43,Female,HR,Assistant,PHD,Married,26144,12,5435,15,107,4,No,3,1,3,No
+1711,30,Female,HR,Lead Analyst,PHD,Single,47702,16,17940,17,7,40,Yes,4,3,3,No
+1712,50,Female,HR,Senior Executive,Diploma,Divorced,117424,22,15816,14,80,25,No,3,3,1,No
+1713,39,Male,Operations,Lead Analyst,Graduate,Single,107083,5,34159,7,51,27,Yes,4,2,5,Yes
+1714,43,Male,HR,Executive,PHD,Divorced,50370,8,9893,3,107,16,Yes,1,4,1,No
+1715,23,Female,Operations,Lead Analyst,PHD,Divorced,21032,5,32421,9,84,39,Yes,1,1,4,Yes
+1716,28,Male,Operations,Assistant,Diploma,Single,99483,20,17034,17,110,21,No,4,1,5,No
+1717,32,Female,HR,Assistant,Graduate,Single,18556,8,37294,3,101,27,Yes,4,4,2,Yes
+1718,22,Male,FInance,Team Leader,Graduate,Single,54484,17,49894,5,116,14,No,2,3,1,No
+1719,53,Female,Operations,Team Leader,PHD,Single,94543,11,5429,20,74,26,No,1,4,1,No
+1720,28,Male,Marketing,Team Leader,PHD,Divorced,103660,23,11551,13,78,27,No,4,1,1,No
+1721,25,Male,IT,Lead Analyst,MBA,Single,129610,25,42674,12,27,23,No,2,1,4,Yes
+1722,22,Female,Marketing,Team Leader,Graduate,Married,144665,10,15287,16,88,31,Yes,1,1,4,Yes
+1723,28,Male,HR,Lead Analyst,MBA,Divorced,43450,16,7478,20,80,15,Yes,2,3,1,Yes
+1724,25,Male,IT,Senior Executive,MBA,Divorced,29537,13,16683,20,67,32,No,1,4,2,Yes
+1725,23,Male,Sales,Senior Executive,Diploma,Single,93440,15,10960,15,97,29,No,4,1,2,No
+1726,25,Female,HR,Assistant,PHD,Married,59430,23,21660,19,17,7,No,1,2,3,No
+1727,49,Male,Marketing,Assistant,Graduate,Married,106962,18,13496,16,100,14,Yes,1,1,1,No
+1728,25,Female,Marketing,Senior Executive,Diploma,Single,37101,25,2412,20,79,31,Yes,4,4,5,No
+1729,49,Male,IT,Assistant,PHD,Married,29815,15,4829,5,132,22,No,2,1,3,No
+1730,53,Male,Sales,Manager,PHD,Married,110322,11,12001,13,81,8,Yes,1,4,5,Yes
+1731,47,Female,FInance,Lead Analyst,MBA,Married,65882,19,13202,19,83,9,No,3,1,2,Yes
+1732,32,Male,IT,Lead Analyst,Master,Single,15685,19,45865,12,64,34,Yes,4,1,2,Yes
+1733,25,Male,Marketing,Team Leader,Diploma,Divorced,119410,6,7080,20,94,5,Yes,1,1,1,No
+1734,37,Female,Marketing,Senior Executive,Master,Divorced,64295,24,3655,19,48,1,No,2,4,5,Yes
+1735,26,Male,Operations,Senior Executive,PHD,Divorced,55633,6,49746,20,32,9,Yes,1,3,4,Yes
+1736,43,Female,IT,Senior Executive,Graduate,Divorced,103821,5,48103,12,78,9,No,3,3,3,No
+1737,35,Male,FInance,Team Leader,Diploma,Married,55215,11,31733,1,115,5,Yes,4,3,4,No
+1738,25,Male,Sales,Senior Executive,Graduate,Single,138612,6,39418,15,49,8,Yes,4,3,2,No
+1739,24,Female,Marketing,Senior Executive,Diploma,Divorced,17971,7,16136,20,126,29,Yes,4,3,5,No
+1740,38,Female,IT,Senior Executive,PHD,Divorced,40843,11,26677,11,129,25,No,4,3,4,No
+1741,26,Female,HR,Manager,Graduate,Divorced,146573,18,21661,15,137,17,Yes,4,4,4,Yes
+1742,32,Male,Marketing,Team Leader,PHD,Divorced,66248,25,10468,10,1,36,No,2,3,1,No
+1743,37,Male,Operations,Assistant,Graduate,Single,20528,8,13411,9,131,2,No,4,1,3,Yes
+1744,30,Female,FInance,Assistant,MBA,Single,25247,11,12597,16,122,26,No,1,1,4,No
+1745,23,Male,HR,Team Leader,Master,Married,81140,7,15120,3,66,2,No,2,1,5,Yes
+1746,40,Male,Marketing,Team Leader,PHD,Single,91349,5,6783,3,130,20,No,1,2,4,No
+1747,47,Male,Sales,Lead Analyst,MBA,Single,130184,6,3905,5,132,13,No,4,2,3,Yes
+1748,38,Male,HR,Team Leader,MBA,Married,19659,7,28265,8,132,18,No,2,4,5,No
+1749,44,Male,Operations,Assistant,Graduate,Married,119188,7,29573,10,135,36,No,2,3,1,No
+1750,37,Female,Marketing,Team Leader,Graduate,Married,135442,15,11522,7,65,25,Yes,3,4,3,Yes
+1751,50,Male,IT,Assistant,Graduate,Single,53215,13,3550,9,9,38,Yes,4,2,4,Yes
+1752,27,Male,Sales,Executive,Graduate,Married,102614,21,8530,6,131,3,Yes,1,4,2,Yes
+1753,50,Male,HR,Lead Analyst,PHD,Single,117109,23,16057,4,22,40,Yes,1,3,1,No
+1754,26,Female,Marketing,Team Leader,PHD,Married,90150,13,13946,16,81,19,Yes,2,3,3,Yes
+1755,33,Male,FInance,Assistant,MBA,Single,32161,22,22,11,106,3,No,3,1,3,Yes
+1756,29,Male,HR,Assistant,PHD,Married,56262,11,10038,13,61,29,No,1,3,1,Yes
+1757,27,Female,Operations,Manager,Diploma,Single,118261,8,31080,7,61,1,No,1,3,2,No
+1758,53,Female,FInance,Assistant,Graduate,Divorced,58933,18,27455,4,48,36,No,2,4,3,Yes
+1759,46,Male,FInance,Executive,Master,Married,99628,24,49208,4,15,13,No,4,1,5,Yes
+1760,27,Female,FInance,Manager,PHD,Married,37913,24,27814,14,6,2,No,2,2,2,Yes
+1761,32,Female,HR,Executive,Diploma,Divorced,136163,20,25459,1,94,5,No,4,3,4,Yes
+1762,27,Male,HR,Executive,Master,Single,57653,6,14399,12,65,0,Yes,1,2,3,No
+1763,22,Male,Sales,Manager,Diploma,Married,71339,23,12620,20,35,12,No,1,2,3,Yes
+1764,34,Female,Sales,Assistant,MBA,Single,60417,7,10062,18,115,16,No,1,3,3,Yes
+1765,46,Male,HR,Assistant,Master,Married,112963,16,38532,14,33,39,Yes,1,1,1,Yes
+1766,53,Male,Operations,Executive,MBA,Single,140940,16,1587,18,68,25,No,3,2,2,No
+1767,52,Female,Sales,Senior Executive,Master,Married,31362,17,48378,10,31,2,No,2,3,2,Yes
+1768,26,Female,Operations,Executive,Diploma,Single,112053,17,24643,3,142,11,No,1,2,3,No
+1769,34,Female,Marketing,Manager,Master,Divorced,49487,25,5304,8,5,21,No,1,2,5,No
+1770,48,Male,Marketing,Lead Analyst,PHD,Single,34201,8,8280,18,77,13,Yes,4,2,3,Yes
+1771,27,Female,HR,Lead Analyst,MBA,Married,37872,10,41966,7,51,30,Yes,4,4,4,Yes
+1772,44,Male,Marketing,Manager,PHD,Divorced,20650,15,25376,11,19,22,No,4,1,1,Yes
+1773,42,Male,Marketing,Lead Analyst,PHD,Married,55835,12,25869,10,135,35,No,1,4,5,No
+1774,21,Male,Marketing,Manager,Graduate,Married,32154,8,44642,15,36,12,Yes,1,4,3,No
+1775,41,Female,IT,Manager,Graduate,Single,97526,25,3237,9,61,3,No,1,4,2,Yes
+1776,47,Male,Operations,Lead Analyst,Graduate,Married,28055,15,22961,3,71,7,No,4,4,3,No
+1777,24,Female,IT,Assistant,PHD,Married,119873,11,23671,11,101,4,Yes,4,2,5,No
+1778,41,Female,Sales,Lead Analyst,Graduate,Single,115294,12,23522,6,127,4,Yes,4,4,3,Yes
+1779,32,Male,FInance,Senior Executive,MBA,Married,82605,5,39069,8,34,17,No,3,3,1,Yes
+1780,48,Male,Marketing,Manager,MBA,Divorced,70427,6,37297,16,42,9,Yes,3,1,4,Yes
+1781,28,Male,FInance,Senior Executive,PHD,Divorced,40143,13,23055,18,8,32,No,2,3,5,Yes
+1782,29,Female,HR,Executive,MBA,Divorced,109051,24,40051,7,32,39,Yes,2,2,3,No
+1783,25,Male,HR,Senior Executive,PHD,Married,47798,13,7578,2,130,5,No,1,4,2,Yes
+1784,46,Female,Sales,Lead Analyst,PHD,Divorced,127073,16,12487,18,16,34,No,4,1,5,No
+1785,23,Female,IT,Team Leader,PHD,Divorced,28769,15,46639,11,106,23,No,1,3,3,No
+1786,21,Male,FInance,Lead Analyst,Diploma,Married,130647,24,27253,8,10,21,No,1,3,3,No
+1787,23,Male,HR,Executive,PHD,Divorced,26352,18,24009,10,75,33,Yes,3,1,5,Yes
+1788,30,Female,IT,Assistant,Diploma,Divorced,81010,17,2740,17,24,14,No,4,3,1,No
+1789,24,Male,FInance,Assistant,Master,Divorced,92228,11,7911,1,103,29,No,3,1,5,Yes
+1790,52,Female,IT,Team Leader,Diploma,Single,103061,6,22804,2,127,7,No,2,4,3,Yes
+1791,25,Female,IT,Lead Analyst,Graduate,Single,127524,6,40892,20,23,35,No,1,4,2,Yes
+1792,45,Male,FInance,Lead Analyst,PHD,Married,41796,16,16262,16,107,27,No,1,4,1,Yes
+1793,46,Male,Marketing,Manager,PHD,Married,127466,24,6808,6,131,17,Yes,3,1,4,Yes
+1794,53,Male,Marketing,Lead Analyst,MBA,Married,109011,7,12523,5,60,14,Yes,4,1,3,No
+1795,35,Female,Sales,Manager,PHD,Single,122382,11,33889,16,64,35,No,1,2,3,Yes
+1796,27,Female,Operations,Senior Executive,PHD,Married,103505,22,39711,11,126,36,No,1,1,4,Yes
+1797,21,Female,Sales,Team Leader,Diploma,Married,149453,19,15091,8,91,4,No,2,1,5,No
+1798,45,Female,HR,Assistant,MBA,Married,68313,13,12870,11,42,35,No,4,3,1,No
+1799,55,Female,FInance,Lead Analyst,Master,Divorced,111266,9,3820,10,65,28,No,1,3,4,Yes
+1800,54,Male,Operations,Manager,Graduate,Single,89407,23,1773,14,73,3,No,4,3,3,Yes
+1801,39,Male,IT,Lead Analyst,MBA,Single,134463,18,43226,3,33,15,No,1,4,3,No
+1802,34,Male,Sales,Lead Analyst,MBA,Divorced,49566,12,18539,6,104,25,Yes,1,1,1,Yes
+1803,48,Female,HR,Senior Executive,Master,Married,95014,24,45935,14,3,31,Yes,3,1,2,No
+1804,28,Female,Sales,Assistant,MBA,Married,44133,7,9191,18,145,37,Yes,2,1,4,Yes
+1805,36,Female,Sales,Executive,Diploma,Single,110678,10,9286,5,70,37,Yes,2,1,5,Yes
+1806,49,Male,IT,Senior Executive,Diploma,Married,15090,25,9611,10,58,32,No,3,4,3,No
+1807,21,Female,Operations,Executive,Master,Single,106300,17,8364,6,91,3,No,2,1,5,Yes
+1808,31,Female,Marketing,Executive,MBA,Married,68212,5,1987,17,150,13,Yes,4,4,2,Yes
+1809,45,Male,Sales,Assistant,MBA,Divorced,15820,10,29197,15,65,24,Yes,3,1,4,Yes
+1810,50,Female,Sales,Executive,Graduate,Divorced,93279,15,5466,11,36,23,No,3,3,2,No
+1811,48,Female,Operations,Lead Analyst,Graduate,Married,68215,8,2008,9,90,5,No,3,3,3,Yes
+1812,47,Male,HR,Team Leader,MBA,Single,115638,14,1319,19,117,23,Yes,1,1,2,No
+1813,55,Female,IT,Executive,Diploma,Married,120229,7,24102,15,80,25,No,4,3,1,Yes
+1814,53,Male,FInance,Team Leader,MBA,Married,44616,17,15271,13,92,35,No,3,1,1,No
+1815,52,Female,Marketing,Lead Analyst,PHD,Married,25278,20,24989,4,32,38,No,2,4,3,No
+1816,54,Female,Operations,Team Leader,PHD,Single,39911,11,2145,9,48,2,No,3,2,1,No
+1817,52,Male,FInance,Lead Analyst,PHD,Single,87741,23,34865,20,37,32,No,2,4,5,No
+1818,31,Male,Sales,Manager,Diploma,Single,120795,24,13169,16,30,22,No,3,4,3,No
+1819,43,Male,FInance,Executive,Master,Married,52582,15,41655,3,73,25,Yes,4,1,4,No
+1820,51,Female,FInance,Team Leader,MBA,Divorced,106737,17,9777,5,92,9,No,1,4,3,Yes
+1821,42,Male,FInance,Manager,Master,Divorced,113167,22,2424,17,123,26,Yes,3,2,1,No
+1822,35,Female,Sales,Executive,Master,Married,91589,5,3676,12,18,38,No,4,4,4,No
+1823,54,Male,HR,Assistant,Diploma,Single,135465,7,7135,11,150,4,Yes,1,4,4,Yes
+1824,42,Female,Operations,Team Leader,MBA,Married,28475,17,44493,19,56,24,Yes,3,2,4,No
+1825,42,Female,FInance,Lead Analyst,Master,Married,46983,5,11895,15,80,34,No,2,4,3,No
+1826,29,Male,HR,Senior Executive,Master,Married,36779,22,40637,3,114,40,No,2,3,3,No
+1827,32,Female,FInance,Assistant,Diploma,Divorced,49380,7,16167,6,7,6,No,1,1,2,No
+1828,37,Male,Marketing,Senior Executive,PHD,Single,107457,24,47856,12,70,37,Yes,2,1,2,No
+1829,42,Female,FInance,Team Leader,MBA,Single,147755,5,20263,7,134,30,No,4,3,3,No
+1830,55,Male,Sales,Assistant,MBA,Married,126961,12,45718,19,95,12,No,3,1,1,Yes
+1831,46,Male,HR,Manager,Diploma,Married,113989,18,36084,1,135,33,No,3,2,3,Yes
+1832,27,Male,Sales,Manager,MBA,Single,131161,24,41130,12,87,24,No,4,3,1,No
+1833,49,Female,FInance,Lead Analyst,Diploma,Divorced,83796,7,35345,4,104,20,Yes,1,3,4,Yes
+1834,48,Male,Marketing,Lead Analyst,PHD,Single,133300,6,26842,20,145,26,Yes,1,3,2,Yes
+1835,36,Female,Marketing,Executive,Master,Single,37838,6,29474,19,114,33,Yes,2,4,2,No
+1836,48,Male,Sales,Lead Analyst,MBA,Single,148684,7,27365,13,95,39,No,3,3,2,Yes
+1837,33,Female,FInance,Senior Executive,PHD,Married,80961,24,16875,20,137,16,Yes,2,3,4,No
+1838,54,Female,IT,Assistant,MBA,Single,57327,16,30482,5,55,40,No,3,2,1,Yes
+1839,21,Female,HR,Assistant,PHD,Divorced,135134,7,3702,11,71,39,No,4,4,5,Yes
+1840,37,Female,Marketing,Assistant,Master,Divorced,55390,20,37175,3,11,30,Yes,1,1,1,No
+1841,24,Female,Sales,Assistant,Diploma,Married,50522,5,26430,16,135,39,No,1,1,4,No
+1842,22,Female,FInance,Manager,Diploma,Single,68854,24,15047,8,124,39,No,1,3,1,Yes
+1843,30,Female,FInance,Assistant,Graduate,Married,51392,8,48415,1,74,9,No,2,1,3,Yes
+1844,47,Female,HR,Senior Executive,Graduate,Married,39155,11,8969,7,6,3,No,4,1,3,Yes
+1845,51,Female,Operations,Senior Executive,MBA,Married,25561,14,5243,13,67,40,Yes,2,4,2,Yes
+1846,27,Female,Operations,Assistant,Diploma,Divorced,39013,14,24216,20,135,7,No,4,2,1,No
+1847,39,Male,Sales,Assistant,PHD,Married,67340,6,30865,15,45,3,No,3,4,4,No
+1848,35,Female,HR,Assistant,Graduate,Married,34960,25,15101,3,146,34,No,2,3,5,No
+1849,31,Female,HR,Team Leader,PHD,Divorced,119485,12,43942,6,24,7,No,3,4,2,Yes
+1850,46,Female,Marketing,Lead Analyst,Graduate,Divorced,46958,24,12418,20,108,16,No,4,3,1,No
+1851,55,Female,FInance,Senior Executive,Graduate,Married,69924,14,19120,8,109,1,No,2,3,5,Yes
+1852,28,Male,FInance,Senior Executive,Master,Married,129122,6,36029,8,101,35,Yes,1,2,2,Yes
+1853,42,Male,Operations,Team Leader,Master,Married,137408,18,27124,9,45,25,Yes,1,1,4,No
+1854,27,Male,IT,Lead Analyst,MBA,Single,36577,17,18911,15,46,40,No,4,4,4,No
+1855,41,Female,FInance,Team Leader,Graduate,Married,17471,20,21404,6,74,20,Yes,2,2,4,No
+1856,34,Female,IT,Senior Executive,Master,Divorced,92823,25,24648,9,126,3,No,2,3,4,No
+1857,50,Male,Marketing,Senior Executive,Master,Married,76461,13,21193,20,6,24,Yes,1,1,1,Yes
+1858,40,Female,IT,Lead Analyst,MBA,Divorced,136018,19,49162,19,57,18,Yes,2,3,5,No
+1859,30,Male,IT,Senior Executive,Master,Married,123364,6,19752,19,89,17,Yes,3,1,2,Yes
+1860,21,Male,Marketing,Assistant,MBA,Single,28228,20,9158,9,147,32,Yes,3,4,4,Yes
+1861,44,Male,Operations,Manager,MBA,Married,49783,9,41847,15,44,22,Yes,3,2,4,Yes
+1862,26,Male,Sales,Team Leader,Graduate,Single,101483,9,19587,12,76,35,No,3,2,4,Yes
+1863,29,Male,FInance,Executive,Graduate,Divorced,17593,11,16140,15,13,10,Yes,3,2,1,No
+1864,39,Female,IT,Lead Analyst,Diploma,Divorced,126875,25,23329,10,136,0,Yes,4,2,4,Yes
+1865,41,Male,HR,Team Leader,PHD,Married,95347,19,11040,2,142,19,Yes,1,1,1,No
+1866,21,Female,HR,Assistant,PHD,Single,123105,23,24842,16,111,6,Yes,3,1,3,Yes
+1867,33,Male,IT,Manager,MBA,Divorced,46346,5,35079,13,98,7,Yes,2,1,2,Yes
+1868,47,Female,IT,Manager,PHD,Married,142870,23,45533,4,15,9,No,2,4,2,Yes
+1869,36,Female,Sales,Team Leader,Diploma,Divorced,71882,17,26312,18,149,18,Yes,3,3,3,Yes
+1870,47,Female,HR,Lead Analyst,PHD,Married,133553,13,11059,8,58,12,Yes,2,1,5,No
+1871,41,Female,IT,Executive,Graduate,Married,145801,15,40905,7,98,30,No,3,4,4,Yes
+1872,23,Male,FInance,Team Leader,Master,Single,129850,17,17803,12,17,18,No,2,2,1,Yes
+1873,29,Female,Sales,Executive,MBA,Divorced,40935,5,43356,1,140,33,Yes,1,1,1,No
+1874,22,Male,Sales,Team Leader,PHD,Married,54336,19,24570,13,91,12,Yes,3,2,4,No
+1875,28,Female,IT,Team Leader,Diploma,Married,45293,5,5174,11,146,24,No,3,3,2,Yes
+1876,34,Male,Sales,Assistant,MBA,Divorced,123518,10,22243,16,149,30,Yes,3,2,2,Yes
+1877,21,Female,HR,Manager,Graduate,Divorced,53494,12,17302,1,99,12,No,4,3,1,Yes
+1878,34,Male,FInance,Assistant,Master,Married,145248,21,9194,19,37,4,No,3,4,2,Yes
+1879,22,Female,Marketing,Team Leader,Diploma,Single,27629,12,2594,2,26,35,No,4,3,2,No
+1880,35,Male,HR,Executive,PHD,Divorced,30595,11,5296,14,124,32,No,2,1,3,No
+1881,35,Female,FInance,Manager,Diploma,Single,67649,16,35850,1,132,10,Yes,3,3,1,No
+1882,37,Female,Marketing,Manager,MBA,Married,116777,22,11467,13,57,14,No,3,1,2,Yes
+1883,28,Male,HR,Team Leader,Graduate,Married,102297,12,46691,3,132,30,No,2,3,3,No
+1884,40,Female,Sales,Team Leader,Diploma,Divorced,50336,10,28262,19,42,30,Yes,2,2,4,No
+1885,36,Male,FInance,Team Leader,MBA,Single,53938,21,19291,5,98,27,No,2,2,1,No
+1886,21,Female,IT,Senior Executive,Master,Single,75613,18,15406,6,60,28,No,2,4,4,No
+1887,26,Male,Sales,Senior Executive,Diploma,Divorced,88142,14,13491,6,124,40,Yes,4,3,3,Yes
+1888,46,Female,Operations,Assistant,MBA,Single,142217,22,48757,17,88,28,No,1,2,5,No
+1889,53,Male,HR,Team Leader,Diploma,Married,142669,7,5399,20,55,29,Yes,1,1,4,No
+1890,40,Male,IT,Executive,Graduate,Married,115290,7,37415,4,66,28,Yes,4,2,5,No
+1891,53,Female,Marketing,Manager,Graduate,Divorced,134032,21,1324,4,91,34,No,4,1,4,Yes
+1892,48,Male,IT,Lead Analyst,PHD,Married,97323,16,18448,19,20,7,Yes,1,3,1,No
+1893,32,Female,FInance,Executive,Graduate,Married,33576,23,34124,20,40,25,No,4,2,3,No
+1894,21,Female,IT,Assistant,MBA,Single,59713,13,13259,4,53,35,Yes,4,1,2,Yes
+1895,34,Female,Operations,Assistant,PHD,Divorced,140795,22,14774,3,29,34,No,3,2,5,No
+1896,41,Male,IT,Senior Executive,Graduate,Single,38969,23,38687,18,98,26,Yes,4,2,2,Yes
+1897,50,Female,Marketing,Assistant,Diploma,Married,87396,6,6954,16,17,8,Yes,4,3,1,Yes
+1898,47,Female,IT,Senior Executive,Master,Married,120248,25,29417,18,102,39,Yes,4,4,4,No
+1899,38,Male,Marketing,Executive,Diploma,Single,16205,18,3966,9,10,7,No,3,3,5,Yes
+1900,35,Female,Marketing,Senior Executive,Diploma,Married,94358,20,42567,3,62,2,No,3,2,4,Yes
+1901,47,Female,Operations,Executive,Diploma,Married,93525,13,24464,2,148,30,Yes,2,3,3,Yes
+1902,23,Female,Sales,Senior Executive,Graduate,Married,26683,15,16369,4,122,14,Yes,1,4,2,Yes
+1903,40,Male,Sales,Executive,Diploma,Divorced,149935,6,48232,19,128,32,No,1,1,1,Yes
+1904,46,Male,Marketing,Executive,Master,Married,35886,6,20694,12,134,33,No,3,1,3,No
+1905,48,Male,IT,Lead Analyst,MBA,Single,52307,12,20875,14,125,23,No,2,3,4,Yes
+1906,31,Female,IT,Assistant,MBA,Married,84303,15,444,19,150,3,No,1,3,5,Yes
+1907,55,Male,Operations,Assistant,Graduate,Single,103152,19,39381,3,91,0,Yes,1,4,5,No
+1908,44,Male,Sales,Senior Executive,Graduate,Single,64278,16,11970,10,44,16,Yes,4,2,2,No
+1909,28,Male,Marketing,Senior Executive,Diploma,Single,109781,14,3724,16,16,39,No,1,1,5,Yes
+1910,25,Male,Marketing,Manager,Diploma,Married,83806,11,10827,1,61,1,Yes,4,2,5,No
+1911,24,Male,Operations,Executive,MBA,Single,137121,14,9546,15,103,17,Yes,1,3,4,Yes
+1912,31,Female,FInance,Senior Executive,Master,Married,41649,22,22843,2,86,18,No,2,4,4,No
+1913,44,Male,FInance,Manager,PHD,Single,67910,17,28263,7,75,34,Yes,2,1,1,Yes
+1914,32,Female,Operations,Manager,MBA,Married,72467,5,19268,17,48,5,No,4,2,4,Yes
+1915,26,Female,Sales,Assistant,Master,Single,55052,5,22314,8,91,16,Yes,3,3,3,Yes
+1916,50,Female,FInance,Senior Executive,Graduate,Divorced,90480,17,45630,2,29,14,No,2,4,5,Yes
+1917,47,Male,HR,Senior Executive,Graduate,Married,32683,20,49298,2,55,5,Yes,4,4,3,Yes
+1918,50,Male,Operations,Team Leader,Diploma,Divorced,119898,5,47512,4,40,38,Yes,3,4,5,No
+1919,35,Male,IT,Assistant,MBA,Divorced,94243,18,6311,1,52,39,No,2,1,1,No
+1920,41,Female,Operations,Assistant,MBA,Divorced,17991,10,21525,15,62,30,No,3,3,2,Yes
+1921,35,Female,Sales,Team Leader,PHD,Married,29593,18,26585,13,122,13,Yes,4,3,2,No
+1922,53,Male,HR,Senior Executive,Diploma,Divorced,34901,16,17022,10,134,10,No,4,4,2,Yes
+1923,35,Female,FInance,Lead Analyst,Graduate,Married,93724,12,3802,8,71,15,Yes,4,2,3,Yes
+1924,40,Female,IT,Team Leader,Diploma,Divorced,19256,22,37563,5,94,12,No,3,4,4,Yes
+1925,55,Female,HR,Executive,MBA,Married,84289,6,11460,10,77,4,No,4,1,2,No
+1926,50,Male,HR,Assistant,Diploma,Divorced,63918,19,12584,14,140,0,Yes,1,4,4,No
+1927,35,Female,HR,Senior Executive,Graduate,Married,82367,20,9647,18,95,21,Yes,1,3,2,No
+1928,53,Female,IT,Senior Executive,Master,Single,68140,11,3741,2,35,23,Yes,4,4,2,No
+1929,45,Female,Marketing,Team Leader,PHD,Married,59514,7,45615,13,61,7,Yes,1,4,3,No
+1930,34,Female,Operations,Assistant,Diploma,Married,45210,13,1840,8,41,10,Yes,1,3,3,No
+1931,28,Male,Sales,Team Leader,Graduate,Single,67733,18,17373,5,123,0,Yes,3,3,1,Yes
+1932,23,Male,Marketing,Lead Analyst,Master,Divorced,140827,16,41922,18,111,23,No,2,3,4,No
+1933,27,Female,Operations,Assistant,MBA,Married,112929,11,43375,11,16,7,No,2,3,3,Yes
+1934,39,Male,HR,Assistant,Graduate,Divorced,144675,24,31211,17,9,7,Yes,4,2,5,No
+1935,38,Male,Operations,Executive,Graduate,Single,133448,14,20181,15,98,33,Yes,3,3,5,Yes
+1936,52,Female,HR,Manager,Master,Married,71295,19,20495,15,120,8,No,1,3,3,No
+1937,49,Male,Sales,Assistant,MBA,Married,56876,11,33183,12,94,19,No,4,4,1,Yes
+1938,46,Male,Sales,Team Leader,MBA,Divorced,92929,10,36524,11,142,20,No,1,2,1,Yes
+1939,33,Female,FInance,Executive,Graduate,Divorced,28508,17,25891,12,127,3,Yes,2,1,2,No
+1940,53,Female,HR,Executive,Graduate,Single,45609,22,7068,14,122,40,No,3,3,1,Yes
+1941,29,Male,Marketing,Assistant,PHD,Divorced,112089,7,30557,10,26,14,Yes,3,2,3,Yes
+1942,30,Male,FInance,Manager,PHD,Divorced,48367,12,11695,15,82,21,Yes,2,1,1,Yes
+1943,23,Female,HR,Manager,Master,Divorced,43078,11,11872,19,142,32,No,1,4,2,Yes
+1944,34,Female,HR,Executive,Diploma,Single,70029,16,3472,13,115,1,No,3,2,2,No
+1945,21,Male,Sales,Lead Analyst,Diploma,Single,36314,13,27150,8,30,25,No,3,4,1,No
+1946,44,Male,FInance,Assistant,Diploma,Divorced,17159,14,899,4,119,23,Yes,4,3,4,Yes
+1947,38,Female,FInance,Senior Executive,Diploma,Married,137480,6,31827,10,97,32,Yes,4,3,1,Yes
+1948,53,Female,Sales,Lead Analyst,PHD,Divorced,96382,20,41732,13,121,29,Yes,1,1,3,No
+1949,24,Female,HR,Senior Executive,Graduate,Single,139110,25,12788,8,20,14,Yes,3,1,5,No
+1950,34,Male,HR,Assistant,Master,Single,17160,25,39179,4,15,10,No,1,1,2,Yes
+1951,30,Male,FInance,Manager,MBA,Married,25711,22,16419,8,118,25,No,4,1,2,No
+1952,24,Male,Marketing,Assistant,PHD,Divorced,131647,19,21418,18,53,24,No,2,4,2,No
+1953,33,Female,Marketing,Manager,Graduate,Single,132468,13,34472,2,54,16,Yes,4,1,4,No
+1954,31,Female,Operations,Lead Analyst,Diploma,Married,132100,9,13475,8,80,17,Yes,2,2,3,Yes
+1955,22,Female,Operations,Lead Analyst,Diploma,Divorced,123957,6,31762,4,109,16,Yes,4,1,2,Yes
+1956,34,Male,FInance,Lead Analyst,Master,Single,116186,11,49673,2,89,40,No,1,1,3,Yes
+1957,45,Female,FInance,Senior Executive,Master,Divorced,66367,7,35942,13,138,38,No,1,3,5,Yes
+1958,35,Male,IT,Assistant,PHD,Divorced,98417,19,9624,4,35,4,No,4,4,5,Yes
+1959,33,Female,FInance,Lead Analyst,Master,Married,97487,17,31879,6,72,9,Yes,3,2,3,Yes
+1960,23,Female,Sales,Senior Executive,Graduate,Married,113661,11,27184,1,110,24,No,3,2,2,Yes
+1961,27,Female,FInance,Manager,PHD,Divorced,140574,25,3942,20,119,26,No,4,4,1,No
+1962,25,Male,Sales,Assistant,Diploma,Single,18250,11,20620,19,55,27,Yes,4,3,4,No
+1963,30,Female,Operations,Team Leader,Diploma,Married,65118,19,40380,12,23,9,Yes,2,2,5,No
+1964,48,Female,Marketing,Senior Executive,PHD,Divorced,147100,23,27066,5,84,19,Yes,4,3,2,Yes
+1965,29,Female,Marketing,Assistant,Master,Divorced,31498,23,29874,15,59,16,Yes,2,2,1,Yes
+1966,37,Male,IT,Assistant,Diploma,Single,90251,10,36605,8,111,14,Yes,4,3,5,No
+1967,23,Male,Marketing,Senior Executive,Graduate,Divorced,142614,23,33275,15,134,40,Yes,2,1,5,No
+1968,49,Male,Marketing,Manager,Graduate,Married,97734,23,30880,8,26,37,No,2,2,1,No
+1969,38,Female,FInance,Team Leader,Graduate,Married,123292,21,45808,13,105,23,No,4,1,2,No
+1970,54,Female,Marketing,Assistant,Graduate,Married,74047,7,8165,5,129,28,Yes,3,4,2,Yes
+1971,38,Female,HR,Assistant,PHD,Divorced,138110,24,45683,6,122,12,No,2,1,3,No
+1972,28,Female,Sales,Manager,Graduate,Single,110790,9,18899,11,123,38,No,2,1,4,Yes
+1973,27,Male,HR,Senior Executive,MBA,Married,89540,7,13935,20,141,21,No,2,2,2,No
+1974,41,Male,HR,Lead Analyst,Diploma,Single,99756,21,26401,16,76,32,No,2,3,5,No
+1975,53,Male,FInance,Team Leader,MBA,Married,113940,6,31472,17,70,16,No,1,1,2,Yes
+1976,42,Female,Marketing,Manager,MBA,Single,58651,8,14189,6,92,36,Yes,3,4,4,Yes
+1977,35,Female,Operations,Lead Analyst,Graduate,Single,21639,20,344,3,51,36,Yes,4,1,1,No
+1978,25,Female,HR,Assistant,Master,Single,88606,21,10748,1,134,29,No,2,4,3,No
+1979,51,Female,IT,Senior Executive,MBA,Single,132915,25,2605,18,59,31,No,2,4,3,No
+1980,53,Female,Sales,Team Leader,MBA,Single,52827,20,10981,17,20,32,Yes,4,2,1,No
+1981,40,Male,FInance,Lead Analyst,Diploma,Single,88349,21,33118,14,23,26,Yes,1,3,2,Yes
+1982,50,Male,Sales,Senior Executive,Graduate,Married,35292,24,25530,8,30,32,No,1,4,4,No
+1983,43,Female,Marketing,Lead Analyst,PHD,Single,75945,11,8131,3,96,35,No,2,1,5,Yes
+1984,33,Female,HR,Senior Executive,PHD,Married,119229,24,32264,8,63,3,Yes,1,4,2,No
+1985,46,Male,FInance,Team Leader,MBA,Married,147525,8,4053,19,93,31,No,2,3,3,Yes
+1986,31,Male,Marketing,Team Leader,Master,Single,131184,9,13939,11,8,17,Yes,2,4,1,No
+1987,21,Male,Operations,Team Leader,PHD,Divorced,138391,24,38805,15,91,32,No,2,3,1,No
+1988,44,Female,HR,Senior Executive,PHD,Single,120557,7,33257,19,41,9,No,4,2,1,Yes
+1989,41,Male,Marketing,Executive,PHD,Divorced,95657,16,25565,11,37,10,No,3,2,1,Yes
+1990,28,Male,Operations,Team Leader,Master,Divorced,126885,9,46653,2,143,28,No,3,3,4,Yes
+1991,38,Female,Sales,Manager,MBA,Divorced,93258,8,20777,9,10,24,No,2,3,1,No
+1992,44,Male,IT,Lead Analyst,PHD,Single,130983,15,8206,12,76,27,Yes,1,1,1,Yes
+1993,38,Female,Operations,Manager,Graduate,Divorced,43684,9,31747,12,12,14,No,2,1,1,Yes
+1994,42,Female,Sales,Lead Analyst,Master,Divorced,44481,9,16616,10,66,35,Yes,2,2,5,No
+1995,28,Female,Operations,Senior Executive,Diploma,Divorced,96623,23,22445,19,83,38,Yes,4,4,4,No
+1996,35,Female,Sales,Lead Analyst,Master,Single,57022,24,44258,20,136,35,Yes,1,3,1,Yes
+1997,28,Male,IT,Senior Executive,Graduate,Divorced,94968,19,28392,8,114,26,Yes,2,4,2,No
+1998,55,Female,Operations,Manager,MBA,Divorced,28374,16,36093,2,64,3,No,2,4,4,Yes
+1999,38,Male,Sales,Lead Analyst,MBA,Divorced,74643,25,29005,2,62,7,Yes,2,3,2,Yes
+2000,28,Male,Sales,Executive,Diploma,Married,123227,12,37106,20,123,37,Yes,2,2,1,Yes
