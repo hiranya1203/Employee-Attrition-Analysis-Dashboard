@@ -46,4 +46,4 @@ This project highlights the value of using data-driven insights to support HR de
 
 #Author
 Penumati Hiranya
-MBA(Finance, Business Analytics)
+PGDM(Finance, Business Analytics)
